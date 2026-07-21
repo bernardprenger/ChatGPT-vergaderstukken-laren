@@ -1,0 +1,54 @@
+name: Vergaderstukken Laren
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Iedere werkdag om 06:17 UTC.
+    # Dat is 08:17 tijdens de Nederlandse zomertijd
+    # en 07:17 tijdens de Nederlandse wintertijd.
+    #
+    # Niet precies op het hele uur plannen vermindert
+    # de kans op vertraging bij GitHub Actions.
+    - cron: "17 6 * * 1-5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vergaderstukken-laren
+  cancel-in-progress: false
+
+jobs:
+  ophalen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Repository ophalen
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Vergaderstukken ophalen
+        run: python scripts/monitor.py
+
+      - name: Wijzigingen opslaan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add overzicht.md state.json
+
+          if git diff --cached --quiet; then
+            echo "Er zijn geen wijzigingen."
+            exit 0
+          fi
+
+          git commit -m "Vergaderstukken bijgewerkt $(date -u +%F)"
+          git push
