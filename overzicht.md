@@ -1,12 +1,13 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-07-31._
+_Laatst gecontroleerd op 2026-08-03._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 
 [Open de volledige agenda](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/b1599b19-828f-4ed0-9b05-1b4aa25271f0)
 
 - [Vaststellen besluitenlijst openbare raadsvergadering d.d. 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/e5ed02b7-14ee-45c1-927a-c4cb5bfabadb)
+- [Besluitenlijst openbare raadsvergadering 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b3745ef6-5901-4c64-a990-e3dcda760909) **(nieuw)**
 - [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/29f44f2f-b465-4dc8-b209-510ac62bc3b7)
 - [Ter kennisname, van college (RIB)](https://laren.bestuurlijkeinformatie.nl/Document/View/7c45ef35-ecfd-4328-aa51-25e8890e6194)
 - [A.1 RIB Beoordeling interbestuurlijk toezicht informatie- en archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/c4cdee5e-bfb8-4456-8dd2-cb8acefc420a)
