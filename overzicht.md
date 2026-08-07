@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-08-06._
+_Laatst gecontroleerd op 2026-08-07._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 
@@ -8,21 +8,21 @@ _Laatst gecontroleerd op 2026-08-06._
 
 - [Vaststellen besluitenlijst openbare raadsvergadering d.d. 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/e5ed02b7-14ee-45c1-927a-c4cb5bfabadb)
 - [Besluitenlijst openbare raadsvergadering 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b3745ef6-5901-4c64-a990-e3dcda760909)
-- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/90562c42-bd11-43e0-ada1-ea370359e184) **(nieuw)**
+- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/67339e4e-4414-4a3e-9cb7-cbc16bac3a51) **(nieuw)**
 - [Ter kennisname, van college (RIB)](https://laren.bestuurlijkeinformatie.nl/Document/View/7c45ef35-ecfd-4328-aa51-25e8890e6194)
 - [A.1 RIB Beoordeling interbestuurlijk toezicht informatie- en archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/c4cdee5e-bfb8-4456-8dd2-cb8acefc420a)
 - [A.1.1 BIJLAGE - Beoordeling Interbestuurlijk Toezicht Informatie- en Archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/3078449b-54a2-40a5-9c13-34f140b5d4ff)
 - [A.2 RIB Beantwoording vragen Larens Behoud – Voi-deelfietsen](https://laren.bestuurlijkeinformatie.nl/Document/View/ed04ac4c-2d45-48dc-92e2-1f2c36751efc)
 - [A.2.1 BIJLAGE - schriftelijke vragen Larens Behoud](https://laren.bestuurlijkeinformatie.nl/Document/View/d1e6678f-9d08-4c5b-8163-3bf8bc2e68b0)
 - [A.3 RIB Voortgang voorbereidingen gemeentelijke aanpak jaarwisseling 2026-2027](https://laren.bestuurlijkeinformatie.nl/Document/View/649398cf-68aa-4a07-b60a-5e8dd7111e61)
-- [A.4 RIB Herziening en stroomlijning P&C cyclus](https://laren.bestuurlijkeinformatie.nl/Document/View/1f42e34b-db6d-477d-b59e-f8ae8c081c1a) **(nieuw)**
-- [A.5 RIB Analyse bestand bijstandsgerechtigden 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/966fdc7a-4d32-4921-9add-70b9b1627622) **(nieuw)**
-- [A.5.1 BIJLAGE - Bestandsanalyse bijstandsgerechtigden 2025 (1)](https://laren.bestuurlijkeinformatie.nl/Document/View/4785c1e3-db2c-4a8c-a826-f3ba945a4b1c) **(nieuw)**
-- [A.6 RIB Voortgang Kindarrangement Q1 2026 en samenwerking Stichting Babyspullen](https://laren.bestuurlijkeinformatie.nl/Document/View/40b0dc91-1bd3-4f76-ac48-ed75945c01ae) **(nieuw)**
-- [A.7 RIB Jaarverslag Wmo-toezicht 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/bef9b6a7-8d9d-4eb6-ac9b-af065ab98014) **(nieuw)**
-- [A.7.1 BIJLAGE - Begeleidende brief bij jaarverslag Wmo-toezicht 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/53b4e95f-333a-4b14-ab74-dc61c2910bde) **(nieuw)**
-- [A.7.2 BIJLAGE - Jaarverslag Wmo-toezicht 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/0bf9e730-9e4a-46b8-910f-d55c6067f8e8) **(nieuw)**
-- [A.8 RIB Toekenning subsidie Dynamic Arts 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/bae2c79e-3fb6-4903-b7ad-619cbf0839ec) **(nieuw)**
+- [A.4 RIB Herziening en stroomlijning P&C cyclus](https://laren.bestuurlijkeinformatie.nl/Document/View/1f42e34b-db6d-477d-b59e-f8ae8c081c1a)
+- [A.5 RIB Analyse bestand bijstandsgerechtigden 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/966fdc7a-4d32-4921-9add-70b9b1627622)
+- [A.5.1 BIJLAGE - Bestandsanalyse bijstandsgerechtigden 2025 (1)](https://laren.bestuurlijkeinformatie.nl/Document/View/4785c1e3-db2c-4a8c-a826-f3ba945a4b1c)
+- [A.6 RIB Voortgang Kindarrangement Q1 2026 en samenwerking Stichting Babyspullen](https://laren.bestuurlijkeinformatie.nl/Document/View/40b0dc91-1bd3-4f76-ac48-ed75945c01ae)
+- [A.7 RIB Jaarverslag Wmo-toezicht 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/bef9b6a7-8d9d-4eb6-ac9b-af065ab98014)
+- [A.7.1 BIJLAGE - Begeleidende brief bij jaarverslag Wmo-toezicht 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/53b4e95f-333a-4b14-ab74-dc61c2910bde)
+- [A.7.2 BIJLAGE - Jaarverslag Wmo-toezicht 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/0bf9e730-9e4a-46b8-910f-d55c6067f8e8)
+- [A.8 RIB Toekenning subsidie Dynamic Arts 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/bae2c79e-3fb6-4903-b7ad-619cbf0839ec)
 - [Ter kennisname Verbonden partijen](https://laren.bestuurlijkeinformatie.nl/Document/View/78914ad5-d53e-471d-b824-3e9ca0ac1a3e)
 - [B.1 MRA - Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/0f4efb53-9425-46cf-9b0c-779596365544)
 - [B.1.1 BIJLAGE - Nota van Beantwoording Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/ad656270-bfcf-4128-8e00-d21b684ca2ee)
@@ -34,10 +34,11 @@ _Laatst gecontroleerd op 2026-08-06._
 - [B.4 VRGV – informatiebrief terugkoppeling vergadering AB 1 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/8c014762-0551-485e-a2d9-2d3cfa9c1f77)
 - [B.5 Regio G&V – informatiebrief voortgangsrapportage beleidsplan Bescherming & Opvang](https://laren.bestuurlijkeinformatie.nl/Document/View/283ad78a-0901-4e8f-a5e6-1c8ab2bc10f1)
 - [B.5.1 BIJLAGE - Voortgangsrapportage beleidsplan Bescherming & Opvang](https://laren.bestuurlijkeinformatie.nl/Document/View/d8ffaaf8-7aae-4bdd-b3bf-e2a43b8d5fb2)
-- [B.6 Tomingroep - brief garantstelling](https://laren.bestuurlijkeinformatie.nl/Document/View/ab3e8da0-5142-4c98-945f-ee78ad203ba3) **(nieuw)**
-- [B.7 VRGV - aanbiedingsbrief vaststelling PGB 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/7a39a04d-eaa4-413e-89f2-c94e2595cc4a) **(nieuw)**
+- [B.6 Tomingroep - brief garantstelling](https://laren.bestuurlijkeinformatie.nl/Document/View/ab3e8da0-5142-4c98-945f-ee78ad203ba3)
+- [B.7 VRGV - aanbiedingsbrief vaststelling PGB 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/7a39a04d-eaa4-413e-89f2-c94e2595cc4a)
 - [Ter kennisname overige](https://laren.bestuurlijkeinformatie.nl/Document/View/6019d92b-1ab6-433e-a849-d5b025b380b4)
 - [C.1 Provincie NH – brief over Gemeenschappelijk Financieel Toezichtkader 2026 gemeenten](https://laren.bestuurlijkeinformatie.nl/Document/View/7269e2e5-3001-4174-ab44-1c76b12edafb)
+- [panel-title-label" > Ter afdoening college (o.a. verzoek zienswijzen)](https://laren.bestuurlijkeinformatie.nl/Document/View/15ea9110-e3f2-43fd-9425-0c4509f666c0) **(nieuw)**
 - [De heer Van Midden te benoemen tot lid en de heer Koldenhof tot plaatsvervangend lid in het Algemeen bestuur van de Regio Gooi en Vechtstreek.](https://laren.bestuurlijkeinformatie.nl/Document/View/d6134e00-d90b-4482-a08b-6d5cb8fdbebd)
 - [RV Benoeming wethouders in het Algemeen bestuur van de Regio Gooi en Vechtstreek](https://laren.bestuurlijkeinformatie.nl/Document/View/56c3bf72-a898-4570-abec-cffbf9c00bd7)
 
