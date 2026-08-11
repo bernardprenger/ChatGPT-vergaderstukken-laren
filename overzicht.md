@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-08-10._
+_Laatst gecontroleerd op 2026-08-11._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 
@@ -42,9 +42,12 @@ _Laatst gecontroleerd op 2026-08-10._
 - [De heer Van Midden te benoemen tot lid en de heer Koldenhof tot plaatsvervangend lid in het Algemeen bestuur van de Regio Gooi en Vechtstreek.](https://laren.bestuurlijkeinformatie.nl/Document/View/d6134e00-d90b-4482-a08b-6d5cb8fdbebd)
 - [RV Benoeming wethouders in het Algemeen bestuur van de Regio Gooi en Vechtstreek](https://laren.bestuurlijkeinformatie.nl/Document/View/56c3bf72-a898-4570-abec-cffbf9c00bd7)
 
-## Commissie R&I
+## Commissie R&I - Agenda laren - Commissie R&I woensdag 16 september 2026 20:00 - 22:00
 
-_Kon deze vergadering niet ophalen: The read operation timed out. De vorige stand is behouden._
+[Open de volledige agenda](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/cf0cd507-4e4a-461c-bf42-e0cef30de56a)
+
+- [Vaststelling van lijst adviezen en conclusies vergadering commissie R&I d.d. 10 juni 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/a6b09e91-29ed-4436-a831-7efe98c5fe43)
+- [Lijst van adviezen commissie R&I 10 juni 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/95f9ce96-bc36-47d9-8fc1-b92cb2bb908e)
 
 ## Commissie M&F - Agenda laren - Commissie M&F woensdag 23 september 2026 20:00 - 22:00
 
