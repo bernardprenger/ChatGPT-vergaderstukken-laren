@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-08-21._
+_Laatst gecontroleerd op 2026-08-24._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 
@@ -8,7 +8,7 @@ _Laatst gecontroleerd op 2026-08-21._
 
 - [Vaststellen besluitenlijst openbare raadsvergadering d.d. 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/e5ed02b7-14ee-45c1-927a-c4cb5bfabadb)
 - [Besluitenlijst openbare raadsvergadering 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b3745ef6-5901-4c64-a990-e3dcda760909)
-- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/1a8be181-29b5-4bce-9f5d-2f33dc688dc0) **(nieuw)**
+- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/1a8be181-29b5-4bce-9f5d-2f33dc688dc0)
 - [Ter kennisname, van college (RIB)](https://laren.bestuurlijkeinformatie.nl/Document/View/7c45ef35-ecfd-4328-aa51-25e8890e6194)
 - [A.1 RIB Beoordeling interbestuurlijk toezicht informatie- en archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/c4cdee5e-bfb8-4456-8dd2-cb8acefc420a)
 - [A.1.1 BIJLAGE - Beoordeling Interbestuurlijk Toezicht Informatie- en Archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/3078449b-54a2-40a5-9c13-34f140b5d4ff)
@@ -23,8 +23,8 @@ _Laatst gecontroleerd op 2026-08-21._
 - [A.7.1 BIJLAGE - Begeleidende brief bij jaarverslag Wmo-toezicht 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/53b4e95f-333a-4b14-ab74-dc61c2910bde)
 - [A.7.2 BIJLAGE - Jaarverslag Wmo-toezicht 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/0bf9e730-9e4a-46b8-910f-d55c6067f8e8)
 - [A.8 RIB Toekenning subsidie Dynamic Arts 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/bae2c79e-3fb6-4903-b7ad-619cbf0839ec)
-- [A.9 RIB Verbeteren zebrapaden](https://laren.bestuurlijkeinformatie.nl/Document/View/430a278b-d708-4770-9180-9aa12ad6e3ad) **(nieuw)**
-- [A.10 RIB Netcongestie en beleidsregels Eerder Aanvragen transportcapaciteit](https://laren.bestuurlijkeinformatie.nl/Document/View/2b820dde-ba90-4102-81e0-06d9f0ce0418) **(nieuw)**
+- [A.9 RIB Verbeteren zebrapaden](https://laren.bestuurlijkeinformatie.nl/Document/View/430a278b-d708-4770-9180-9aa12ad6e3ad)
+- [A.10 RIB Netcongestie en beleidsregels Eerder Aanvragen transportcapaciteit](https://laren.bestuurlijkeinformatie.nl/Document/View/2b820dde-ba90-4102-81e0-06d9f0ce0418)
 - [Ter kennisname Verbonden partijen](https://laren.bestuurlijkeinformatie.nl/Document/View/78914ad5-d53e-471d-b824-3e9ca0ac1a3e)
 - [B.1 MRA - Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/0f4efb53-9425-46cf-9b0c-779596365544)
 - [B.1.1 BIJLAGE - Nota van Beantwoording Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/ad656270-bfcf-4128-8e00-d21b684ca2ee)
@@ -38,7 +38,7 @@ _Laatst gecontroleerd op 2026-08-21._
 - [B.5.1 BIJLAGE - Voortgangsrapportage beleidsplan Bescherming & Opvang](https://laren.bestuurlijkeinformatie.nl/Document/View/d8ffaaf8-7aae-4bdd-b3bf-e2a43b8d5fb2)
 - [B.6 Tomingroep - brief garantstelling](https://laren.bestuurlijkeinformatie.nl/Document/View/ab3e8da0-5142-4c98-945f-ee78ad203ba3)
 - [B.7 VRGV - aanbiedingsbrief vaststelling PGB 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/7a39a04d-eaa4-413e-89f2-c94e2595cc4a)
-- [B.7.1 BIJLAGE - Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/46a6915a-9e6a-4064-b268-3f27a62d342c) **(nieuw)**
+- [B.7.1 BIJLAGE - Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/46a6915a-9e6a-4064-b268-3f27a62d342c)
 - [Ter kennisname overige](https://laren.bestuurlijkeinformatie.nl/Document/View/6019d92b-1ab6-433e-a849-d5b025b380b4)
 - [C.1 Provincie NH – brief over Gemeenschappelijk Financieel Toezichtkader 2026 gemeenten](https://laren.bestuurlijkeinformatie.nl/Document/View/7269e2e5-3001-4174-ab44-1c76b12edafb)
 - [panel-title-label" > Ter afdoening college (o.a. verzoek zienswijzen)](https://laren.bestuurlijkeinformatie.nl/Document/View/15ea9110-e3f2-43fd-9425-0c4509f666c0)
