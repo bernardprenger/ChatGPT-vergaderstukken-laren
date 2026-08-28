@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-08-27._
+_Laatst gecontroleerd op 2026-08-28._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 
@@ -8,7 +8,7 @@ _Laatst gecontroleerd op 2026-08-27._
 
 - [Vaststellen besluitenlijst openbare raadsvergadering d.d. 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/e5ed02b7-14ee-45c1-927a-c4cb5bfabadb)
 - [Besluitenlijst openbare raadsvergadering 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b3745ef6-5901-4c64-a990-e3dcda760909)
-- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/18b0066f-f504-4a3d-9044-c3c91a107866) **(nieuw)**
+- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/18b0066f-f504-4a3d-9044-c3c91a107866)
 - [Ter kennisname, van college (RIB)](https://laren.bestuurlijkeinformatie.nl/Document/View/7c45ef35-ecfd-4328-aa51-25e8890e6194)
 - [A.1 RIB Beoordeling interbestuurlijk toezicht informatie- en archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/c4cdee5e-bfb8-4456-8dd2-cb8acefc420a)
 - [A.1.1 BIJLAGE - Beoordeling Interbestuurlijk Toezicht Informatie- en Archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/3078449b-54a2-40a5-9c13-34f140b5d4ff)
@@ -39,25 +39,30 @@ _Laatst gecontroleerd op 2026-08-27._
 - [B.6 Tomingroep - brief garantstelling](https://laren.bestuurlijkeinformatie.nl/Document/View/ab3e8da0-5142-4c98-945f-ee78ad203ba3)
 - [B.7 VRGV - aanbiedingsbrief vaststelling PGB 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/7a39a04d-eaa4-413e-89f2-c94e2595cc4a)
 - [B.7.1 BIJLAGE - Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/46a6915a-9e6a-4064-b268-3f27a62d342c)
-- [B.8 Regio G&V - Reactie op zienswijzen PC stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/b4533a25-a222-46ad-91c3-f045e6071973) **(nieuw)**
+- [B.8 Regio G&V - Reactie op zienswijzen PC stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/b4533a25-a222-46ad-91c3-f045e6071973)
 - [Ter kennisname overige](https://laren.bestuurlijkeinformatie.nl/Document/View/6019d92b-1ab6-433e-a849-d5b025b380b4)
 - [C.1 Provincie NH – brief over Gemeenschappelijk Financieel Toezichtkader 2026 gemeenten](https://laren.bestuurlijkeinformatie.nl/Document/View/7269e2e5-3001-4174-ab44-1c76b12edafb)
 - [panel-title-label" > Ter afdoening college (o.a. verzoek zienswijzen)](https://laren.bestuurlijkeinformatie.nl/Document/View/15ea9110-e3f2-43fd-9425-0c4509f666c0)
 - [D.1 Inwoners - klacht communicatie en voortgang project reconstructie Eemnesserweg-West](https://laren.bestuurlijkeinformatie.nl/Document/View/6d72ebf6-d595-4a59-afb6-38ec1ecf0b36)
 - [D.2 LB - schriftelijke vragen Artikel Honderden huishoudens in BEL-gemeenten kampen met energiearmoede](https://laren.bestuurlijkeinformatie.nl/Document/View/80f83637-726d-446c-a6dc-f9dead0008d2)
-- [D.3 Inwoner - zorgen over de veiligheid van de Remiseweg](https://laren.bestuurlijkeinformatie.nl/Document/View/2c09344b-722e-44f8-854d-79aec66c5a76) **(nieuw)**
+- [D.3 Inwoner - zorgen over de veiligheid van de Remiseweg](https://laren.bestuurlijkeinformatie.nl/Document/View/2c09344b-722e-44f8-854d-79aec66c5a76)
 - [De heer Van Midden te benoemen tot lid en de heer Koldenhof tot plaatsvervangend lid in het Algemeen bestuur van de Regio Gooi en Vechtstreek.](https://laren.bestuurlijkeinformatie.nl/Document/View/d6134e00-d90b-4482-a08b-6d5cb8fdbebd)
 - [RV Benoeming wethouders in het Algemeen bestuur van de Regio Gooi en Vechtstreek](https://laren.bestuurlijkeinformatie.nl/Document/View/56c3bf72-a898-4570-abec-cffbf9c00bd7)
-- [3. toestemming te verlenen aan het college om de gewijzigde regeling Gemeenschappelijke Regeling te treffen.](https://laren.bestuurlijkeinformatie.nl/Document/View/f55dc682-1bbc-4da0-b8f6-85d2f27994e6) **(nieuw)**
-- [RV Zienswijze op de resultaatbestemming 2025, de begrotingswijzigingen 2026 en 2027 en het voorstel tot wijziging van de Gemeenschappelijke Regeling OFGV](https://laren.bestuurlijkeinformatie.nl/Document/View/84f3c41e-d5ff-4956-931c-d234c35fc505) **(nieuw)**
-- [RB Zienswijze op de resultaatbestemming 2025, de begrotingswijzigingen 2026 en 2027 en het voorstel tot wijziging van de Gemeenschappelijke Regeling OFGV](https://laren.bestuurlijkeinformatie.nl/Document/View/ff30d107-fe87-424a-9e58-6aae185c7229) **(nieuw)**
-- [BIJLAGE 1 - Concept zienswijze](https://laren.bestuurlijkeinformatie.nl/Document/View/9ccd6036-c1eb-4e2d-b796-f92be06fb50c) **(nieuw)**
-- [BIJLAGE 2.1 - Brief raden en staten jaarstukken en resultaatbestemming 2025 Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/9ea91db8-01d1-4baa-9648-20db33b29381) **(nieuw)**
-- [BIJLAGE 2.2 - Jaarstukken 2025 gewaarmerkt](https://laren.bestuurlijkeinformatie.nl/Document/View/71b62d82-5cdc-4b9b-877a-83118d207b4d) **(nieuw)**
-- [BIJLAGE 2.3 - Controleverklaring jaarrekening 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/79f1b107-9ab2-4404-9fa9-c861fcc12e5c) **(nieuw)**
-- [BIJLAGE 2.4 - Accountantsverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/f71097db-9fe1-4f34-9cd0-852657995784) **(nieuw)**
-- [BIJLAGE 3 - Brief raden en staten jaarstukken en resultaatbestemming 2025 Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/4dd765bf-15a3-4612-98a9-e2d0e855af88) **(nieuw)**
-- [BIJLAGE 4.1 - Brief aan colleges wijziging gemeenteschappelijke regeling OFGV 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/9637a8bf-efc8-4438-9306-9cb853c3eb1c) **(nieuw)**
+- [Het Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029 vast te stellen.](https://laren.bestuurlijkeinformatie.nl/Document/View/d5eb1ff7-9a66-45ad-a8eb-92574a2113d8) **(nieuw)**
+- [RV Vaststelling Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/538e46b1-fe5c-4bf3-aa4f-539869d7b516) **(nieuw)**
+- [RB Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/ad13bfd7-ff4b-42bb-a095-5373bc07d61d) **(nieuw)**
+- [Geen wensen en bedenkingen kenbaar te maken op het voorgenomen besluit van het college om onder de in de akte van borgtocht van de Bank Nederlandse Gemeenten vermelde voorwaarden onherroepelijk en onvoorwaardelijk borg te staan voor vervolgfinanciering van GEM Crailo B.V.](https://laren.bestuurlijkeinformatie.nl/Document/View/0841b853-b62b-4c01-ac33-cd038a6f8a0c) **(nieuw)**
+- [RV Verzoek garantstelling financiering GEM Crailo B.V](https://laren.bestuurlijkeinformatie.nl/Document/View/763daf0e-2bd2-4ceb-9eca-3164f306ba39) **(nieuw)**
+- [3. toestemming te verlenen aan het college om de gewijzigde regeling Gemeenschappelijke Regeling te treffen.](https://laren.bestuurlijkeinformatie.nl/Document/View/f55dc682-1bbc-4da0-b8f6-85d2f27994e6)
+- [RV Zienswijze op de resultaatbestemming 2025, de begrotingswijzigingen 2026 en 2027 en het voorstel tot wijziging van de Gemeenschappelijke Regeling OFGV](https://laren.bestuurlijkeinformatie.nl/Document/View/84f3c41e-d5ff-4956-931c-d234c35fc505)
+- [RB Zienswijze op de resultaatbestemming 2025, de begrotingswijzigingen 2026 en 2027 en het voorstel tot wijziging van de Gemeenschappelijke Regeling OFGV](https://laren.bestuurlijkeinformatie.nl/Document/View/ff30d107-fe87-424a-9e58-6aae185c7229)
+- [BIJLAGE 1 - Concept zienswijze](https://laren.bestuurlijkeinformatie.nl/Document/View/9ccd6036-c1eb-4e2d-b796-f92be06fb50c)
+- [BIJLAGE 2.1 - Brief raden en staten jaarstukken en resultaatbestemming 2025 Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/9ea91db8-01d1-4baa-9648-20db33b29381)
+- [BIJLAGE 2.2 - Jaarstukken 2025 gewaarmerkt](https://laren.bestuurlijkeinformatie.nl/Document/View/71b62d82-5cdc-4b9b-877a-83118d207b4d)
+- [BIJLAGE 2.3 - Controleverklaring jaarrekening 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/79f1b107-9ab2-4404-9fa9-c861fcc12e5c)
+- [BIJLAGE 2.4 - Accountantsverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/f71097db-9fe1-4f34-9cd0-852657995784)
+- [BIJLAGE 3 - Brief raden en staten jaarstukken en resultaatbestemming 2025 Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/4dd765bf-15a3-4612-98a9-e2d0e855af88)
+- [BIJLAGE 4.1 - Brief aan colleges wijziging gemeenteschappelijke regeling OFGV 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/9637a8bf-efc8-4438-9306-9cb853c3eb1c)
 
 ## Commissie R&I - Agenda laren - Commissie R&I woensdag 16 september 2026 20:00 - 22:00
 
@@ -74,13 +79,18 @@ _Laatst gecontroleerd op 2026-08-27._
 - [Lijst van adviezen commissie M&F 17 juni 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/c20b9f1f-1431-4f71-86a6-61a180e6b55a)
 - [Transcript commissie M&F 17 juni 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/95cd3000-810c-4727-b312-34b5d3195e67)
 - [Lijst van adviezen commissie M&F 1 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/08169af8-f81a-4aad-a31a-580d4d4cde3f)
-- [3. toestemming te verlenen aan het college om de gewijzigde regeling Gemeenschappelijke Regeling te treffen.](https://laren.bestuurlijkeinformatie.nl/Document/View/f55dc682-1bbc-4da0-b8f6-85d2f27994e6) **(nieuw)**
-- [RV Zienswijze op de resultaatbestemming 2025, de begrotingswijzigingen 2026 en 2027 en het voorstel tot wijziging van de Gemeenschappelijke Regeling OFGV](https://laren.bestuurlijkeinformatie.nl/Document/View/84f3c41e-d5ff-4956-931c-d234c35fc505) **(nieuw)**
-- [RB Zienswijze op de resultaatbestemming 2025, de begrotingswijzigingen 2026 en 2027 en het voorstel tot wijziging van de Gemeenschappelijke Regeling OFGV](https://laren.bestuurlijkeinformatie.nl/Document/View/ff30d107-fe87-424a-9e58-6aae185c7229) **(nieuw)**
-- [BIJLAGE 1 - Concept zienswijze](https://laren.bestuurlijkeinformatie.nl/Document/View/9ccd6036-c1eb-4e2d-b796-f92be06fb50c) **(nieuw)**
-- [BIJLAGE 2.1 - Brief raden en staten jaarstukken en resultaatbestemming 2025 Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/9ea91db8-01d1-4baa-9648-20db33b29381) **(nieuw)**
-- [BIJLAGE 2.2 - Jaarstukken 2025 gewaarmerkt](https://laren.bestuurlijkeinformatie.nl/Document/View/71b62d82-5cdc-4b9b-877a-83118d207b4d) **(nieuw)**
-- [BIJLAGE 2.3 - Controleverklaring jaarrekening 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/79f1b107-9ab2-4404-9fa9-c861fcc12e5c) **(nieuw)**
-- [BIJLAGE 2.4 - Accountantsverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/f71097db-9fe1-4f34-9cd0-852657995784) **(nieuw)**
-- [BIJLAGE 3 - Brief raden en staten jaarstukken en resultaatbestemming 2025 Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/4dd765bf-15a3-4612-98a9-e2d0e855af88) **(nieuw)**
-- [BIJLAGE 4.1 - Brief aan colleges wijziging gemeenteschappelijke regeling OFGV 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/9637a8bf-efc8-4438-9306-9cb853c3eb1c) **(nieuw)**
+- [Het Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029 vast te stellen.](https://laren.bestuurlijkeinformatie.nl/Document/View/d5eb1ff7-9a66-45ad-a8eb-92574a2113d8) **(nieuw)**
+- [RV Vaststelling Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/538e46b1-fe5c-4bf3-aa4f-539869d7b516) **(nieuw)**
+- [RB Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/ad13bfd7-ff4b-42bb-a095-5373bc07d61d) **(nieuw)**
+- [Geen wensen en bedenkingen kenbaar te maken op het voorgenomen besluit van het college om onder de in de akte van borgtocht van de Bank Nederlandse Gemeenten vermelde voorwaarden onherroepelijk en onvoorwaardelijk borg te staan voor vervolgfinanciering van GEM Crailo B.V.](https://laren.bestuurlijkeinformatie.nl/Document/View/0841b853-b62b-4c01-ac33-cd038a6f8a0c) **(nieuw)**
+- [RV Verzoek garantstelling financiering GEM Crailo B.V](https://laren.bestuurlijkeinformatie.nl/Document/View/763daf0e-2bd2-4ceb-9eca-3164f306ba39) **(nieuw)**
+- [3. toestemming te verlenen aan het college om de gewijzigde regeling Gemeenschappelijke Regeling te treffen.](https://laren.bestuurlijkeinformatie.nl/Document/View/f55dc682-1bbc-4da0-b8f6-85d2f27994e6)
+- [RV Zienswijze op de resultaatbestemming 2025, de begrotingswijzigingen 2026 en 2027 en het voorstel tot wijziging van de Gemeenschappelijke Regeling OFGV](https://laren.bestuurlijkeinformatie.nl/Document/View/84f3c41e-d5ff-4956-931c-d234c35fc505)
+- [RB Zienswijze op de resultaatbestemming 2025, de begrotingswijzigingen 2026 en 2027 en het voorstel tot wijziging van de Gemeenschappelijke Regeling OFGV](https://laren.bestuurlijkeinformatie.nl/Document/View/ff30d107-fe87-424a-9e58-6aae185c7229)
+- [BIJLAGE 1 - Concept zienswijze](https://laren.bestuurlijkeinformatie.nl/Document/View/9ccd6036-c1eb-4e2d-b796-f92be06fb50c)
+- [BIJLAGE 2.1 - Brief raden en staten jaarstukken en resultaatbestemming 2025 Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/9ea91db8-01d1-4baa-9648-20db33b29381)
+- [BIJLAGE 2.2 - Jaarstukken 2025 gewaarmerkt](https://laren.bestuurlijkeinformatie.nl/Document/View/71b62d82-5cdc-4b9b-877a-83118d207b4d)
+- [BIJLAGE 2.3 - Controleverklaring jaarrekening 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/79f1b107-9ab2-4404-9fa9-c861fcc12e5c)
+- [BIJLAGE 2.4 - Accountantsverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/f71097db-9fe1-4f34-9cd0-852657995784)
+- [BIJLAGE 3 - Brief raden en staten jaarstukken en resultaatbestemming 2025 Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/4dd765bf-15a3-4612-98a9-e2d0e855af88)
+- [BIJLAGE 4.1 - Brief aan colleges wijziging gemeenteschappelijke regeling OFGV 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/9637a8bf-efc8-4438-9306-9cb853c3eb1c)
