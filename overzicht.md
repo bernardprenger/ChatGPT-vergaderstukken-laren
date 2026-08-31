@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-08-28._
+_Laatst gecontroleerd op 2026-08-31._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 
@@ -8,7 +8,7 @@ _Laatst gecontroleerd op 2026-08-28._
 
 - [Vaststellen besluitenlijst openbare raadsvergadering d.d. 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/e5ed02b7-14ee-45c1-927a-c4cb5bfabadb)
 - [Besluitenlijst openbare raadsvergadering 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b3745ef6-5901-4c64-a990-e3dcda760909)
-- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/18b0066f-f504-4a3d-9044-c3c91a107866)
+- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/89c9ca64-2e9e-41d4-b722-c4f9f73f8bba) **(nieuw)**
 - [Ter kennisname, van college (RIB)](https://laren.bestuurlijkeinformatie.nl/Document/View/7c45ef35-ecfd-4328-aa51-25e8890e6194)
 - [A.1 RIB Beoordeling interbestuurlijk toezicht informatie- en archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/c4cdee5e-bfb8-4456-8dd2-cb8acefc420a)
 - [A.1.1 BIJLAGE - Beoordeling Interbestuurlijk Toezicht Informatie- en Archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/3078449b-54a2-40a5-9c13-34f140b5d4ff)
@@ -25,6 +25,8 @@ _Laatst gecontroleerd op 2026-08-28._
 - [A.8 RIB Toekenning subsidie Dynamic Arts 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/bae2c79e-3fb6-4903-b7ad-619cbf0839ec)
 - [A.9 RIB Verbeteren zebrapaden](https://laren.bestuurlijkeinformatie.nl/Document/View/430a278b-d708-4770-9180-9aa12ad6e3ad)
 - [A.10 RIB Netcongestie en beleidsregels Eerder Aanvragen transportcapaciteit](https://laren.bestuurlijkeinformatie.nl/Document/View/2b820dde-ba90-4102-81e0-06d9f0ce0418)
+- [A.10.1 BIJLAGE - Beleidsregels gemeentelijke prioritering transportcapaciteit Blaricum-Eemnes-Laren 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/afe92ab6-d744-470a-8b7c-52be167d4a17) **(nieuw)**
+- [A.11 RIB Jaarrapportage 2025 Discriminatie.nl Gooi en Vecht](https://laren.bestuurlijkeinformatie.nl/Document/View/723d9c2a-ca6e-4320-bc2f-a69d7b6b9783) **(nieuw)**
 - [Ter kennisname Verbonden partijen](https://laren.bestuurlijkeinformatie.nl/Document/View/78914ad5-d53e-471d-b824-3e9ca0ac1a3e)
 - [B.1 MRA - Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/0f4efb53-9425-46cf-9b0c-779596365544)
 - [B.1.1 BIJLAGE - Nota van Beantwoording Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/ad656270-bfcf-4128-8e00-d21b684ca2ee)
@@ -48,11 +50,11 @@ _Laatst gecontroleerd op 2026-08-28._
 - [D.3 Inwoner - zorgen over de veiligheid van de Remiseweg](https://laren.bestuurlijkeinformatie.nl/Document/View/2c09344b-722e-44f8-854d-79aec66c5a76)
 - [De heer Van Midden te benoemen tot lid en de heer Koldenhof tot plaatsvervangend lid in het Algemeen bestuur van de Regio Gooi en Vechtstreek.](https://laren.bestuurlijkeinformatie.nl/Document/View/d6134e00-d90b-4482-a08b-6d5cb8fdbebd)
 - [RV Benoeming wethouders in het Algemeen bestuur van de Regio Gooi en Vechtstreek](https://laren.bestuurlijkeinformatie.nl/Document/View/56c3bf72-a898-4570-abec-cffbf9c00bd7)
-- [Het Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029 vast te stellen.](https://laren.bestuurlijkeinformatie.nl/Document/View/d5eb1ff7-9a66-45ad-a8eb-92574a2113d8) **(nieuw)**
-- [RV Vaststelling Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/538e46b1-fe5c-4bf3-aa4f-539869d7b516) **(nieuw)**
-- [RB Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/ad13bfd7-ff4b-42bb-a095-5373bc07d61d) **(nieuw)**
-- [Geen wensen en bedenkingen kenbaar te maken op het voorgenomen besluit van het college om onder de in de akte van borgtocht van de Bank Nederlandse Gemeenten vermelde voorwaarden onherroepelijk en onvoorwaardelijk borg te staan voor vervolgfinanciering van GEM Crailo B.V.](https://laren.bestuurlijkeinformatie.nl/Document/View/0841b853-b62b-4c01-ac33-cd038a6f8a0c) **(nieuw)**
-- [RV Verzoek garantstelling financiering GEM Crailo B.V](https://laren.bestuurlijkeinformatie.nl/Document/View/763daf0e-2bd2-4ceb-9eca-3164f306ba39) **(nieuw)**
+- [Het Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029 vast te stellen.](https://laren.bestuurlijkeinformatie.nl/Document/View/d5eb1ff7-9a66-45ad-a8eb-92574a2113d8)
+- [RV Vaststelling Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/538e46b1-fe5c-4bf3-aa4f-539869d7b516)
+- [RB Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/ad13bfd7-ff4b-42bb-a095-5373bc07d61d)
+- [Geen wensen en bedenkingen kenbaar te maken op het voorgenomen besluit van het college om onder de in de akte van borgtocht van de Bank Nederlandse Gemeenten vermelde voorwaarden onherroepelijk en onvoorwaardelijk borg te staan voor vervolgfinanciering van GEM Crailo B.V.](https://laren.bestuurlijkeinformatie.nl/Document/View/0841b853-b62b-4c01-ac33-cd038a6f8a0c)
+- [RV Verzoek garantstelling financiering GEM Crailo B.V](https://laren.bestuurlijkeinformatie.nl/Document/View/763daf0e-2bd2-4ceb-9eca-3164f306ba39)
 - [3. toestemming te verlenen aan het college om de gewijzigde regeling Gemeenschappelijke Regeling te treffen.](https://laren.bestuurlijkeinformatie.nl/Document/View/f55dc682-1bbc-4da0-b8f6-85d2f27994e6)
 - [RV Zienswijze op de resultaatbestemming 2025, de begrotingswijzigingen 2026 en 2027 en het voorstel tot wijziging van de Gemeenschappelijke Regeling OFGV](https://laren.bestuurlijkeinformatie.nl/Document/View/84f3c41e-d5ff-4956-931c-d234c35fc505)
 - [RB Zienswijze op de resultaatbestemming 2025, de begrotingswijzigingen 2026 en 2027 en het voorstel tot wijziging van de Gemeenschappelijke Regeling OFGV](https://laren.bestuurlijkeinformatie.nl/Document/View/ff30d107-fe87-424a-9e58-6aae185c7229)
@@ -79,11 +81,11 @@ _Laatst gecontroleerd op 2026-08-28._
 - [Lijst van adviezen commissie M&F 17 juni 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/c20b9f1f-1431-4f71-86a6-61a180e6b55a)
 - [Transcript commissie M&F 17 juni 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/95cd3000-810c-4727-b312-34b5d3195e67)
 - [Lijst van adviezen commissie M&F 1 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/08169af8-f81a-4aad-a31a-580d4d4cde3f)
-- [Het Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029 vast te stellen.](https://laren.bestuurlijkeinformatie.nl/Document/View/d5eb1ff7-9a66-45ad-a8eb-92574a2113d8) **(nieuw)**
-- [RV Vaststelling Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/538e46b1-fe5c-4bf3-aa4f-539869d7b516) **(nieuw)**
-- [RB Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/ad13bfd7-ff4b-42bb-a095-5373bc07d61d) **(nieuw)**
-- [Geen wensen en bedenkingen kenbaar te maken op het voorgenomen besluit van het college om onder de in de akte van borgtocht van de Bank Nederlandse Gemeenten vermelde voorwaarden onherroepelijk en onvoorwaardelijk borg te staan voor vervolgfinanciering van GEM Crailo B.V.](https://laren.bestuurlijkeinformatie.nl/Document/View/0841b853-b62b-4c01-ac33-cd038a6f8a0c) **(nieuw)**
-- [RV Verzoek garantstelling financiering GEM Crailo B.V](https://laren.bestuurlijkeinformatie.nl/Document/View/763daf0e-2bd2-4ceb-9eca-3164f306ba39) **(nieuw)**
+- [Het Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029 vast te stellen.](https://laren.bestuurlijkeinformatie.nl/Document/View/d5eb1ff7-9a66-45ad-a8eb-92574a2113d8)
+- [RV Vaststelling Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/538e46b1-fe5c-4bf3-aa4f-539869d7b516)
+- [RB Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029](https://laren.bestuurlijkeinformatie.nl/Document/View/ad13bfd7-ff4b-42bb-a095-5373bc07d61d)
+- [Geen wensen en bedenkingen kenbaar te maken op het voorgenomen besluit van het college om onder de in de akte van borgtocht van de Bank Nederlandse Gemeenten vermelde voorwaarden onherroepelijk en onvoorwaardelijk borg te staan voor vervolgfinanciering van GEM Crailo B.V.](https://laren.bestuurlijkeinformatie.nl/Document/View/0841b853-b62b-4c01-ac33-cd038a6f8a0c)
+- [RV Verzoek garantstelling financiering GEM Crailo B.V](https://laren.bestuurlijkeinformatie.nl/Document/View/763daf0e-2bd2-4ceb-9eca-3164f306ba39)
 - [3. toestemming te verlenen aan het college om de gewijzigde regeling Gemeenschappelijke Regeling te treffen.](https://laren.bestuurlijkeinformatie.nl/Document/View/f55dc682-1bbc-4da0-b8f6-85d2f27994e6)
 - [RV Zienswijze op de resultaatbestemming 2025, de begrotingswijzigingen 2026 en 2027 en het voorstel tot wijziging van de Gemeenschappelijke Regeling OFGV](https://laren.bestuurlijkeinformatie.nl/Document/View/84f3c41e-d5ff-4956-931c-d234c35fc505)
 - [RB Zienswijze op de resultaatbestemming 2025, de begrotingswijzigingen 2026 en 2027 en het voorstel tot wijziging van de Gemeenschappelijke Regeling OFGV](https://laren.bestuurlijkeinformatie.nl/Document/View/ff30d107-fe87-424a-9e58-6aae185c7229)
