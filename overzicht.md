@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-09-03._
+_Laatst gecontroleerd op 2026-09-04._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 
@@ -8,7 +8,7 @@ _Laatst gecontroleerd op 2026-09-03._
 
 - [Vaststellen besluitenlijst openbare raadsvergadering d.d. 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/e5ed02b7-14ee-45c1-927a-c4cb5bfabadb)
 - [Besluitenlijst openbare raadsvergadering 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b3745ef6-5901-4c64-a990-e3dcda760909)
-- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/d20faa2b-3ba2-4a3c-ae81-693996db0e84) **(nieuw)**
+- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/68dd72af-9a3e-45c3-a9a6-35070a7cfd83) **(nieuw)**
 - [Ter kennisname, van college (RIB)](https://laren.bestuurlijkeinformatie.nl/Document/View/7c45ef35-ecfd-4328-aa51-25e8890e6194)
 - [A.1 RIB Beoordeling interbestuurlijk toezicht informatie- en archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/c4cdee5e-bfb8-4456-8dd2-cb8acefc420a)
 - [A.1.1 BIJLAGE - Beoordeling Interbestuurlijk Toezicht Informatie- en Archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/3078449b-54a2-40a5-9c13-34f140b5d4ff)
@@ -28,9 +28,10 @@ _Laatst gecontroleerd op 2026-09-03._
 - [A.10.1 BIJLAGE - Beleidsregels gemeentelijke prioritering transportcapaciteit Blaricum-Eemnes-Laren 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/afe92ab6-d744-470a-8b7c-52be167d4a17)
 - [A.11 RIB Jaarrapportage 2025 Discriminatie.nl Gooi en Vecht](https://laren.bestuurlijkeinformatie.nl/Document/View/723d9c2a-ca6e-4320-bc2f-a69d7b6b9783)
 - [A.11.1 BIJLAGE - Jaarrapportage ADV(Versa Welzijn) 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/a2f9d049-2341-412b-8ec4-66e4266ed3a9)
-- [A.12 RIB Laadpalen Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/e01865b1-37d5-4b21-952f-b55d6d7df82a) **(nieuw)**
-- [A.13 RIB Beantwoording schriftelijke vragen Larens Behoud ten aanzien van energiearmoede](https://laren.bestuurlijkeinformatie.nl/Document/View/9692b2bb-0d2c-4d60-bcbc-700f552b934a) **(nieuw)**
-- [A.13.1 BIJLAGE -LB schriftelijke vragen nav artikel Honderden huishoudens ... energiearmoede](https://laren.bestuurlijkeinformatie.nl/Document/View/205d7a63-11b6-4c9f-bef9-faa796966fa2) **(nieuw)**
+- [A.12 RIB Laadpalen Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/e01865b1-37d5-4b21-952f-b55d6d7df82a)
+- [A.13 RIB Beantwoording schriftelijke vragen Larens Behoud ten aanzien van energiearmoede](https://laren.bestuurlijkeinformatie.nl/Document/View/9692b2bb-0d2c-4d60-bcbc-700f552b934a)
+- [A.13.1 BIJLAGE -LB schriftelijke vragen nav artikel Honderden huishoudens ... energiearmoede](https://laren.bestuurlijkeinformatie.nl/Document/View/205d7a63-11b6-4c9f-bef9-faa796966fa2)
+- [A.14 RIB terugkoppeling BEL Bestuur mei en juni 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/ba78a34f-e037-4bc7-921b-045c0c9abd93) **(nieuw)**
 - [Ter kennisname Verbonden partijen](https://laren.bestuurlijkeinformatie.nl/Document/View/78914ad5-d53e-471d-b824-3e9ca0ac1a3e)
 - [B.1 MRA - Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/0f4efb53-9425-46cf-9b0c-779596365544)
 - [B.1.1 BIJLAGE - Nota van Beantwoording Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/ad656270-bfcf-4128-8e00-d21b684ca2ee)
