@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-09-11._
+_Laatst gecontroleerd op 2026-09-14._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 
@@ -8,7 +8,7 @@ _Laatst gecontroleerd op 2026-09-11._
 
 - [Vaststellen besluitenlijst openbare raadsvergadering d.d. 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/e5ed02b7-14ee-45c1-927a-c4cb5bfabadb)
 - [Besluitenlijst openbare raadsvergadering 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b3745ef6-5901-4c64-a990-e3dcda760909)
-- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/beba2a70-5fb5-4073-a697-0fcc3e2bf4d8) **(nieuw)**
+- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/beba2a70-5fb5-4073-a697-0fcc3e2bf4d8)
 - [Ter kennisname, van college (RIB)](https://laren.bestuurlijkeinformatie.nl/Document/View/7c45ef35-ecfd-4328-aa51-25e8890e6194)
 - [A.1 RIB Beoordeling interbestuurlijk toezicht informatie- en archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/c4cdee5e-bfb8-4456-8dd2-cb8acefc420a)
 - [A.1.1 BIJLAGE - Beoordeling Interbestuurlijk Toezicht Informatie- en Archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/3078449b-54a2-40a5-9c13-34f140b5d4ff)
@@ -47,12 +47,12 @@ _Laatst gecontroleerd op 2026-09-11._
 - [A.20 RIB Milieujaarverslag Laren 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/295d1aeb-c7cc-4f4b-96c7-11c0744f0dd7)
 - [A.20.1 BIJLAGE - Milieujaarverslag Laren 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/5effac92-5363-46e7-9ea7-e726a374946f)
 - [A.20.2 BIJLAGE - Jaarrapportage 2025 Gemeente Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/840f6e54-ee20-4196-bac0-b1b894d54f23)
-- [Ter kennisname Verbonden partijen](https://laren.bestuurlijkeinformatie.nl/Document/View/78914ad5-d53e-471d-b824-3e9ca0ac1a3e)
+- [Ter kennisname Verbonden partijen](https://laren.bestuurlijkeinformatie.nl/Document/View/78914ad5-d53e-471d-b824-3e9ca0ac1a3e) **WAARSCHUWING: geen direct bestand**
 - [B.1 MRA - Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/0f4efb53-9425-46cf-9b0c-779596365544)
 - [B.1.1 BIJLAGE - Nota van Beantwoording Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/ad656270-bfcf-4128-8e00-d21b684ca2ee)
 - [B.2 Regio G&V - Jaarstukken 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/35f39d78-4a35-4414-94e8-084962f6dc43)
 - [B.2.1 BIJLAGE - Accountantsverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/4bcffb27-1d91-43c1-99a5-478ca31b4fc9)
-- [B.2.2 BIJLAGE - Controleverklaring](https://laren.bestuurlijkeinformatie.nl/Document/View/ae107c80-b0eb-4500-b72c-93d3be2feaa3)
+- [B.2.2 BIJLAGE - Controleverklaring](https://laren.bestuurlijkeinformatie.nl/Document/View/ae107c80-b0eb-4500-b72c-93d3be2feaa3) **WAARSCHUWING: geen direct bestand**
 - [B.3 VRGV - aanbiedingsbrief Jaarstukken 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/b0b65f06-d18f-426c-952b-4d6093940f83)
 - [B.3.1 BIJLAGE - Jaarstukken 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/10ba853e-a06b-4ba4-a322-4335c71a57a3)
 - [B.4 VRGV – informatiebrief terugkoppeling vergadering AB 1 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/8c014762-0551-485e-a2d9-2d3cfa9c1f77)
@@ -72,10 +72,10 @@ _Laatst gecontroleerd op 2026-09-11._
 - [D.3 Inwoner - zorgen over de veiligheid van de Remiseweg](https://laren.bestuurlijkeinformatie.nl/Document/View/2c09344b-722e-44f8-854d-79aec66c5a76)
 - [D.4 VRGV - brief kenbaar maken wensen en bedenkingen oprichting stichting Knooppunt Coördinatie Rijk-Regio's (KCR2)](https://laren.bestuurlijkeinformatie.nl/Document/View/c4c82f91-cdf7-4445-8024-79b783c9f6ee)
 - [D.5 VRGV - Aanbiedingsbrief bestuursrapportage 2026 en 1e begrotingswijziging 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/f9915c3e-6e35-4956-b5bd-c70516a71eca)
-- [D.5.1 BIJLAGE - Bestuursrapportage 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/1589a2bf-b437-465b-8789-b6e9a420ab66) **(nieuw)**
-- [D.6 LB- Schriftelijke vragen n.a.v. raadsinformatiebrief Subsidie Dynamic Arts](https://laren.bestuurlijkeinformatie.nl/Document/View/ba6a6356-f1b4-4c95-bce0-1a1fb152e2f4) **(nieuw)**
-- [D.7 Regio G&V - aanbiedingsbrief bestuursrapportage 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/d27a58d4-e56e-4b2d-a354-e1fdca876aef) **(nieuw)**
-- [D.7.1 BIJLAGE - Bestuursapportage 2026 voor zienswijzen](https://laren.bestuurlijkeinformatie.nl/Document/View/57a02760-716f-4e45-92c4-eb5c0f7b90b5) **(nieuw)**
+- [D.5.1 BIJLAGE - Bestuursrapportage 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/1589a2bf-b437-465b-8789-b6e9a420ab66)
+- [D.6 LB- Schriftelijke vragen n.a.v. raadsinformatiebrief Subsidie Dynamic Arts](https://laren.bestuurlijkeinformatie.nl/Document/View/ba6a6356-f1b4-4c95-bce0-1a1fb152e2f4)
+- [D.7 Regio G&V - aanbiedingsbrief bestuursrapportage 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/d27a58d4-e56e-4b2d-a354-e1fdca876aef)
+- [D.7.1 BIJLAGE - Bestuursapportage 2026 voor zienswijzen](https://laren.bestuurlijkeinformatie.nl/Document/View/57a02760-716f-4e45-92c4-eb5c0f7b90b5)
 - [De heer Van Midden te benoemen tot lid en de heer Koldenhof tot plaatsvervangend lid in het Algemeen bestuur van de Regio Gooi en Vechtstreek.](https://laren.bestuurlijkeinformatie.nl/Document/View/d6134e00-d90b-4482-a08b-6d5cb8fdbebd)
 - [RV Benoeming wethouders in het Algemeen bestuur van de Regio Gooi en Vechtstreek](https://laren.bestuurlijkeinformatie.nl/Document/View/56c3bf72-a898-4570-abec-cffbf9c00bd7)
 - [Het Integriteitsbeleid BEL Combinatie en BEL-gemeenten 2026-2029 vast te stellen.](https://laren.bestuurlijkeinformatie.nl/Document/View/d5eb1ff7-9a66-45ad-a8eb-92574a2113d8)
