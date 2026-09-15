@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-09-14._
+_Laatst gecontroleerd op 2026-09-15._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 
@@ -47,12 +47,12 @@ _Laatst gecontroleerd op 2026-09-14._
 - [A.20 RIB Milieujaarverslag Laren 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/295d1aeb-c7cc-4f4b-96c7-11c0744f0dd7)
 - [A.20.1 BIJLAGE - Milieujaarverslag Laren 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/5effac92-5363-46e7-9ea7-e726a374946f)
 - [A.20.2 BIJLAGE - Jaarrapportage 2025 Gemeente Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/840f6e54-ee20-4196-bac0-b1b894d54f23)
-- [Ter kennisname Verbonden partijen](https://laren.bestuurlijkeinformatie.nl/Document/View/78914ad5-d53e-471d-b824-3e9ca0ac1a3e) **WAARSCHUWING: geen direct bestand**
+- [Ter kennisname Verbonden partijen](https://laren.bestuurlijkeinformatie.nl/Document/View/78914ad5-d53e-471d-b824-3e9ca0ac1a3e)
 - [B.1 MRA - Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/0f4efb53-9425-46cf-9b0c-779596365544)
 - [B.1.1 BIJLAGE - Nota van Beantwoording Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/ad656270-bfcf-4128-8e00-d21b684ca2ee)
 - [B.2 Regio G&V - Jaarstukken 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/35f39d78-4a35-4414-94e8-084962f6dc43)
 - [B.2.1 BIJLAGE - Accountantsverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/4bcffb27-1d91-43c1-99a5-478ca31b4fc9)
-- [B.2.2 BIJLAGE - Controleverklaring](https://laren.bestuurlijkeinformatie.nl/Document/View/ae107c80-b0eb-4500-b72c-93d3be2feaa3) **WAARSCHUWING: geen direct bestand**
+- [B.2.2 BIJLAGE - Controleverklaring](https://laren.bestuurlijkeinformatie.nl/Document/View/ae107c80-b0eb-4500-b72c-93d3be2feaa3)
 - [B.3 VRGV - aanbiedingsbrief Jaarstukken 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/b0b65f06-d18f-426c-952b-4d6093940f83)
 - [B.3.1 BIJLAGE - Jaarstukken 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/10ba853e-a06b-4ba4-a322-4335c71a57a3)
 - [B.4 VRGV – informatiebrief terugkoppeling vergadering AB 1 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/8c014762-0551-485e-a2d9-2d3cfa9c1f77)
