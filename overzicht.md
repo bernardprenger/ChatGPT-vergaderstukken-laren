@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-09-16._
+_Laatst gecontroleerd op 2026-09-17._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 
@@ -8,7 +8,7 @@ _Laatst gecontroleerd op 2026-09-16._
 
 - [Vaststellen besluitenlijst openbare raadsvergadering d.d. 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/e5ed02b7-14ee-45c1-927a-c4cb5bfabadb)
 - [Besluitenlijst openbare raadsvergadering 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b3745ef6-5901-4c64-a990-e3dcda760909)
-- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/beba2a70-5fb5-4073-a697-0fcc3e2bf4d8)
+- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/e236f318-c033-4620-9709-e46b13e924fa) **(nieuw)**
 - [Ter kennisname, van college (RIB)](https://laren.bestuurlijkeinformatie.nl/Document/View/7c45ef35-ecfd-4328-aa51-25e8890e6194)
 - [A.1 RIB Beoordeling interbestuurlijk toezicht informatie- en archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/c4cdee5e-bfb8-4456-8dd2-cb8acefc420a)
 - [A.1.1 BIJLAGE - Beoordeling Interbestuurlijk Toezicht Informatie- en Archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/3078449b-54a2-40a5-9c13-34f140b5d4ff)
@@ -64,6 +64,11 @@ _Laatst gecontroleerd op 2026-09-16._
 - [B.8 Regio G&V - Reactie op zienswijzen PC stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/b4533a25-a222-46ad-91c3-f045e6071973)
 - [B.9 Regio G&V - informatiebrief Regionale kansenkaart woonzorgopgave en uitnodiging Themabijeenkomst](https://laren.bestuurlijkeinformatie.nl/Document/View/4b5df004-d349-4e90-968f-1fa7f5e63201)
 - [B.10 VRGV - informatiebrief Terugkoppeling vergadering AB 2 september 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6cb887bd-1b28-4c2a-b2da-987eca3d4635)
+- [B.11 GGD Regio G&V - informatiebrief Jeugdgezondheidszorg asielzoekers](https://laren.bestuurlijkeinformatie.nl/Document/View/b6584248-ccaa-4a1c-9322-1c705ccb08fd) **(nieuw)**
+- [B.12 Regio G&V - informatiebrief zienswijzereactie regiogemeenten op ontwerp omgevingsvisies Provincies N-H en Flevoland](https://laren.bestuurlijkeinformatie.nl/Document/View/177650d0-aad6-4586-aa61-2afe79dc677a) **(nieuw)**
+- [B.12.1 BIJLAGE - brief aan provincie N-H met de regionale zienswijzereactie namens de gemeenten uit de G&V](https://laren.bestuurlijkeinformatie.nl/Document/View/95b2ef91-8e3b-4000-9f34-01778ec0440a) **(nieuw)**
+- [B.12.2 BIJLAGE - ontwerp omgevingsvisie Provincie N-H](https://laren.bestuurlijkeinformatie.nl/Document/View/4302280a-4cbc-4a61-9e0a-7560accc4321) **(nieuw)**
+- [B.12.3 BIJLAGE - brief aan provincie Flevoland met de regionale zienswijzereactie namens de gemeenten uit de G&V](https://laren.bestuurlijkeinformatie.nl/Document/View/52325f1f-d7b5-4352-aee5-81d2b7715599) **(nieuw)**
 - [Ter kennisname overige](https://laren.bestuurlijkeinformatie.nl/Document/View/6019d92b-1ab6-433e-a849-d5b025b380b4)
 - [C.1 Provincie NH – brief over Gemeenschappelijk Financieel Toezichtkader 2026 gemeenten](https://laren.bestuurlijkeinformatie.nl/Document/View/7269e2e5-3001-4174-ab44-1c76b12edafb)
 - [panel-title-label" > Ter afdoening college (o.a. verzoek zienswijzen)](https://laren.bestuurlijkeinformatie.nl/Document/View/15ea9110-e3f2-43fd-9425-0c4509f666c0)
@@ -98,14 +103,11 @@ _Laatst gecontroleerd op 2026-09-16._
 - [BIJLAGE 3 - Brief raden en staten jaarstukken en resultaatbestemming 2025 Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/4dd765bf-15a3-4612-98a9-e2d0e855af88)
 - [BIJLAGE 4.1 - Brief aan colleges wijziging gemeenteschappelijke regeling OFGV 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/9637a8bf-efc8-4438-9306-9cb853c3eb1c)
 
-## Commissie R&I - Agenda laren - Commissie R&I woensdag 16 september 2026 20:00 - 22:00
+## Commissie R&I - Agenda laren - Commissie R&I woensdag 7 oktober 2026 20:00 - 22:00
 
-[Open de volledige agenda](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/cf0cd507-4e4a-461c-bf42-e0cef30de56a)
+[Open de volledige agenda](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/d0b12091-6641-4e15-88bf-7ec0d963be05)
 
-- [Opening en vaststelling agenda](https://laren.bestuurlijkeinformatie.nl/Document/View/b98433f6-350f-4bf6-a579-bfe28b3eb796)
-- [Vaststelling van lijst adviezen en conclusies vergadering commissie R&I d.d. 10 juni 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/a6b09e91-29ed-4436-a831-7efe98c5fe43)
-- [Lijst van adviezen commissie R&I 10 juni 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/95f9ce96-bc36-47d9-8fc1-b92cb2bb908e)
-- [-title-label" > Bespreking ingekomen stuk Veiligheid van de Remiseweg](https://laren.bestuurlijkeinformatie.nl/Document/View/04bf04c6-8cb0-4dd7-b772-a8f75477108a)
+_Nog geen documenten gepubliceerd._
 
 ## Commissie M&F - Agenda laren - Commissie M&F woensdag 23 september 2026 20:00 - 22:00
 
