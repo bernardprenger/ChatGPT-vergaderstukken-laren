@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-09-17._
+_Laatst gecontroleerd op 2026-09-18._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 
@@ -8,7 +8,7 @@ _Laatst gecontroleerd op 2026-09-17._
 
 - [Vaststellen besluitenlijst openbare raadsvergadering d.d. 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/e5ed02b7-14ee-45c1-927a-c4cb5bfabadb)
 - [Besluitenlijst openbare raadsvergadering 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b3745ef6-5901-4c64-a990-e3dcda760909)
-- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/e236f318-c033-4620-9709-e46b13e924fa) **(nieuw)**
+- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/e236f318-c033-4620-9709-e46b13e924fa)
 - [Ter kennisname, van college (RIB)](https://laren.bestuurlijkeinformatie.nl/Document/View/7c45ef35-ecfd-4328-aa51-25e8890e6194)
 - [A.1 RIB Beoordeling interbestuurlijk toezicht informatie- en archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/c4cdee5e-bfb8-4456-8dd2-cb8acefc420a)
 - [A.1.1 BIJLAGE - Beoordeling Interbestuurlijk Toezicht Informatie- en Archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/3078449b-54a2-40a5-9c13-34f140b5d4ff)
@@ -64,11 +64,11 @@ _Laatst gecontroleerd op 2026-09-17._
 - [B.8 Regio G&V - Reactie op zienswijzen PC stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/b4533a25-a222-46ad-91c3-f045e6071973)
 - [B.9 Regio G&V - informatiebrief Regionale kansenkaart woonzorgopgave en uitnodiging Themabijeenkomst](https://laren.bestuurlijkeinformatie.nl/Document/View/4b5df004-d349-4e90-968f-1fa7f5e63201)
 - [B.10 VRGV - informatiebrief Terugkoppeling vergadering AB 2 september 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6cb887bd-1b28-4c2a-b2da-987eca3d4635)
-- [B.11 GGD Regio G&V - informatiebrief Jeugdgezondheidszorg asielzoekers](https://laren.bestuurlijkeinformatie.nl/Document/View/b6584248-ccaa-4a1c-9322-1c705ccb08fd) **(nieuw)**
-- [B.12 Regio G&V - informatiebrief zienswijzereactie regiogemeenten op ontwerp omgevingsvisies Provincies N-H en Flevoland](https://laren.bestuurlijkeinformatie.nl/Document/View/177650d0-aad6-4586-aa61-2afe79dc677a) **(nieuw)**
-- [B.12.1 BIJLAGE - brief aan provincie N-H met de regionale zienswijzereactie namens de gemeenten uit de G&V](https://laren.bestuurlijkeinformatie.nl/Document/View/95b2ef91-8e3b-4000-9f34-01778ec0440a) **(nieuw)**
-- [B.12.2 BIJLAGE - ontwerp omgevingsvisie Provincie N-H](https://laren.bestuurlijkeinformatie.nl/Document/View/4302280a-4cbc-4a61-9e0a-7560accc4321) **(nieuw)**
-- [B.12.3 BIJLAGE - brief aan provincie Flevoland met de regionale zienswijzereactie namens de gemeenten uit de G&V](https://laren.bestuurlijkeinformatie.nl/Document/View/52325f1f-d7b5-4352-aee5-81d2b7715599) **(nieuw)**
+- [B.11 GGD Regio G&V - informatiebrief Jeugdgezondheidszorg asielzoekers](https://laren.bestuurlijkeinformatie.nl/Document/View/b6584248-ccaa-4a1c-9322-1c705ccb08fd)
+- [B.12 Regio G&V - informatiebrief zienswijzereactie regiogemeenten op ontwerp omgevingsvisies Provincies N-H en Flevoland](https://laren.bestuurlijkeinformatie.nl/Document/View/177650d0-aad6-4586-aa61-2afe79dc677a)
+- [B.12.1 BIJLAGE - brief aan provincie N-H met de regionale zienswijzereactie namens de gemeenten uit de G&V](https://laren.bestuurlijkeinformatie.nl/Document/View/95b2ef91-8e3b-4000-9f34-01778ec0440a)
+- [B.12.2 BIJLAGE - ontwerp omgevingsvisie Provincie N-H](https://laren.bestuurlijkeinformatie.nl/Document/View/4302280a-4cbc-4a61-9e0a-7560accc4321)
+- [B.12.3 BIJLAGE - brief aan provincie Flevoland met de regionale zienswijzereactie namens de gemeenten uit de G&V](https://laren.bestuurlijkeinformatie.nl/Document/View/52325f1f-d7b5-4352-aee5-81d2b7715599)
 - [Ter kennisname overige](https://laren.bestuurlijkeinformatie.nl/Document/View/6019d92b-1ab6-433e-a849-d5b025b380b4)
 - [C.1 Provincie NH – brief over Gemeenschappelijk Financieel Toezichtkader 2026 gemeenten](https://laren.bestuurlijkeinformatie.nl/Document/View/7269e2e5-3001-4174-ab44-1c76b12edafb)
 - [panel-title-label" > Ter afdoening college (o.a. verzoek zienswijzen)](https://laren.bestuurlijkeinformatie.nl/Document/View/15ea9110-e3f2-43fd-9425-0c4509f666c0)
