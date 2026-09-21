@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-09-18._
+_Laatst gecontroleerd op 2026-09-21._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 
@@ -107,7 +107,7 @@ _Laatst gecontroleerd op 2026-09-18._
 
 [Open de volledige agenda](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/d0b12091-6641-4e15-88bf-7ec0d963be05)
 
-_Nog geen documenten gepubliceerd._
+- [Vaststelling lijst adviezen en conclusies vergadering commissie R&I d.d. 16 september 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/2a7b80ff-ea47-4046-af5c-056b9daa9112) **(nieuw)**
 
 ## Commissie M&F - Agenda laren - Commissie M&F woensdag 23 september 2026 20:00 - 22:00
 
