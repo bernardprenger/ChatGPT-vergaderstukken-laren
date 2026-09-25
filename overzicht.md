@@ -1,15 +1,15 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-09-24._
+_Laatst gecontroleerd op 2026-09-25._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 30 september 2026 20:00 - 22:00
 
 [Open de volledige agenda](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/b1599b19-828f-4ed0-9b05-1b4aa25271f0)
 
-- [Opening en vaststelling agenda](https://laren.bestuurlijkeinformatie.nl/Document/View/7e4e425c-944b-4173-8276-dfb758578296) **(nieuw)**
+- [Opening en vaststelling agenda](https://laren.bestuurlijkeinformatie.nl/Document/View/7e4e425c-944b-4173-8276-dfb758578296)
 - [Vaststellen besluitenlijst openbare raadsvergadering d.d. 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/e5ed02b7-14ee-45c1-927a-c4cb5bfabadb)
 - [Besluitenlijst openbare raadsvergadering 8 juli 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b3745ef6-5901-4c64-a990-e3dcda760909)
-- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/70bdc4e0-7a35-490a-8905-ed0baf9c7021) **(nieuw)**
+- [Vaststellen lijst ingekomen stukken](https://laren.bestuurlijkeinformatie.nl/Document/View/70bdc4e0-7a35-490a-8905-ed0baf9c7021)
 - [Ter kennisname, van college (RIB)](https://laren.bestuurlijkeinformatie.nl/Document/View/7c45ef35-ecfd-4328-aa51-25e8890e6194)
 - [A.1 RIB Beoordeling interbestuurlijk toezicht informatie- en archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/c4cdee5e-bfb8-4456-8dd2-cb8acefc420a)
 - [A.1.1 BIJLAGE - Beoordeling Interbestuurlijk Toezicht Informatie- en Archiefbeheer 2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/3078449b-54a2-40a5-9c13-34f140b5d4ff)
@@ -50,8 +50,8 @@ _Laatst gecontroleerd op 2026-09-24._
 - [A.20.2 BIJLAGE - Jaarrapportage 2025 Gemeente Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/840f6e54-ee20-4196-bac0-b1b894d54f23)
 - [A.20.3 BIJLAGE - Rapportage metingen Palmes buisjes 2025 (2)](https://laren.bestuurlijkeinformatie.nl/Document/View/2e2ea849-895c-4476-bef5-936aea943971)
 - [A.21 RIB jaarrekening 2025 HBEL-taken (maatwerkvoorzieningen) Sociaal Domein Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/1731ccae-b4bd-4093-a1f2-78cf323be390)
-- [A.21.1 BIJLAGE - toelichting bij de jaarrekening 2025 HBEL-taken (maatwerkvoorzieningen) Sociaal Domein](https://laren.bestuurlijkeinformatie.nl/Document/View/e66c73d0-9a9f-45f2-852a-1489a5d905fe) **(nieuw)**
-- [A.22 RIB prognose HBEL-taken (maatwerkvoorzieningen) Q2 2026 Sociaal Domein Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/4bedddbe-9283-4a71-a5f1-ee319c077438) **(nieuw)**
+- [A.21.1 BIJLAGE - toelichting bij de jaarrekening 2025 HBEL-taken (maatwerkvoorzieningen) Sociaal Domein](https://laren.bestuurlijkeinformatie.nl/Document/View/e66c73d0-9a9f-45f2-852a-1489a5d905fe)
+- [A.22 RIB prognose HBEL-taken (maatwerkvoorzieningen) Q2 2026 Sociaal Domein Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/4bedddbe-9283-4a71-a5f1-ee319c077438)
 - [Ter kennisname Verbonden partijen](https://laren.bestuurlijkeinformatie.nl/Document/View/78914ad5-d53e-471d-b824-3e9ca0ac1a3e)
 - [B.1 MRA - Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/0f4efb53-9425-46cf-9b0c-779596365544)
 - [B.1.1 BIJLAGE - Nota van Beantwoording Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/ad656270-bfcf-4128-8e00-d21b684ca2ee)
@@ -122,16 +122,16 @@ _Laatst gecontroleerd op 2026-09-24._
 - [VVD - toelichting verzoek agendering](https://laren.bestuurlijkeinformatie.nl/Document/View/66d41ca7-5668-4edd-9741-6f8f035bfecc)
 - [B.3 Regio G&V - Aanbiedingsbrief Jaarverslag Vervoer 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/7e074eba-5dc0-4528-b10e-e03447e34f88)
 - [B.3.1 BIJLAGE - Jaarverslag Vervoer G&V 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/1352e9d2-178f-425f-b0d8-6a50f88e1784)
-- [7 november aanstaande.](https://laren.bestuurlijkeinformatie.nl/Document/View/ba06f1c5-30d3-434d-adf8-637cd601c9d8) **(nieuw)**
-- [RV Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/e6302d9a-acf3-46b5-b44f-72be747d6de8) **(nieuw)**
-- [RB Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/d393928a-186a-41de-89ca-43a237477d99) **(nieuw)**
-- [Bijlage 1 - Programmabegroting 2027](https://laren.bestuurlijkeinformatie.nl/Document/View/953f4b0c-a151-463f-a05e-fdbb53ac8770) **(nieuw)**
-- [De Najaarsnota 2026 met bijbehorende begrotingswijziging vast te stellen.](https://laren.bestuurlijkeinformatie.nl/Document/View/8a00f9f3-b06a-47b6-af07-3905ad004cf9) **(nieuw)**
-- [RV Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6c25206a-2d61-4ad6-b870-be608a7ccd25) **(nieuw)**
-- [RB Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/c3838d90-b35c-485c-8e96-e2ee4788a9f5) **(nieuw)**
-- [Bijlage 1 - Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/2af3f60b-ce7b-4f33-86e0-87d0a9fe78c6) **(nieuw)**
-- [2. Afdeling 10 (Consumentenvuurwerk) van hoofdstuk 2 uit de Algemene Plaatselijke Verordening te schrappen.](https://laren.bestuurlijkeinformatie.nl/Document/View/092206d6-4e98-463b-8ee5-943c5293717e) **(nieuw)**
-- [RV Wijziging Algemene Plaatselijke Verordening gemeente Laren (APV)](https://laren.bestuurlijkeinformatie.nl/Document/View/58508b5b-f785-44cf-bc27-6a77faa88b94) **(nieuw)**
-- [RB Wijziging Algemene Plaatselijke Verordening gemeente Laren (APV)](https://laren.bestuurlijkeinformatie.nl/Document/View/dc6d9f02-11e8-439a-aaf0-6050945dfc1e) **(nieuw)**
-- [Toestemming te verlenen aan het college voor het aangaan van de Gemeenschappelijke regeling Gemeentebelastingen Huizen, Blaricum, Eemnes en Huizen.](https://laren.bestuurlijkeinformatie.nl/Document/View/2baaa0b8-9466-4a3c-9ffb-e3648de5fe7e) **(nieuw)**
-- [RV Toetreding gemeente Eemnes tot GR Gemeentebelastingen Huizen, Blaricum en Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/1622223b-0c34-4fbc-a7f7-52436602a7dd) **(nieuw)**
+- [7 november aanstaande.](https://laren.bestuurlijkeinformatie.nl/Document/View/ba06f1c5-30d3-434d-adf8-637cd601c9d8)
+- [RV Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/e6302d9a-acf3-46b5-b44f-72be747d6de8)
+- [RB Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/d393928a-186a-41de-89ca-43a237477d99)
+- [Bijlage 1 - Programmabegroting 2027](https://laren.bestuurlijkeinformatie.nl/Document/View/953f4b0c-a151-463f-a05e-fdbb53ac8770)
+- [De Najaarsnota 2026 met bijbehorende begrotingswijziging vast te stellen.](https://laren.bestuurlijkeinformatie.nl/Document/View/8a00f9f3-b06a-47b6-af07-3905ad004cf9)
+- [RV Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6c25206a-2d61-4ad6-b870-be608a7ccd25)
+- [RB Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/c3838d90-b35c-485c-8e96-e2ee4788a9f5)
+- [Bijlage 1 - Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/2af3f60b-ce7b-4f33-86e0-87d0a9fe78c6)
+- [2. Afdeling 10 (Consumentenvuurwerk) van hoofdstuk 2 uit de Algemene Plaatselijke Verordening te schrappen.](https://laren.bestuurlijkeinformatie.nl/Document/View/092206d6-4e98-463b-8ee5-943c5293717e)
+- [RV Wijziging Algemene Plaatselijke Verordening gemeente Laren (APV)](https://laren.bestuurlijkeinformatie.nl/Document/View/58508b5b-f785-44cf-bc27-6a77faa88b94)
+- [RB Wijziging Algemene Plaatselijke Verordening gemeente Laren (APV)](https://laren.bestuurlijkeinformatie.nl/Document/View/dc6d9f02-11e8-439a-aaf0-6050945dfc1e)
+- [Toestemming te verlenen aan het college voor het aangaan van de Gemeenschappelijke regeling Gemeentebelastingen Huizen, Blaricum, Eemnes en Huizen.](https://laren.bestuurlijkeinformatie.nl/Document/View/2baaa0b8-9466-4a3c-9ffb-e3648de5fe7e)
+- [RV Toetreding gemeente Eemnes tot GR Gemeentebelastingen Huizen, Blaricum en Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/1622223b-0c34-4fbc-a7f7-52436602a7dd)
