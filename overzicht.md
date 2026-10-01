@@ -6,15 +6,15 @@ _Laatst gecontroleerd op 2026-10-01._
 
 [Open de volledige agenda](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/2d966155-c4f1-47a2-a1c2-ee7502e27816)
 
-- [De Najaarsnota 2026 met bijbehorende begrotingswijziging vast te stellen.](https://laren.bestuurlijkeinformatie.nl/Document/View/8a00f9f3-b06a-47b6-af07-3905ad004cf9) **(nieuw)**
-- [RV Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6c25206a-2d61-4ad6-b870-be608a7ccd25) **(nieuw)**
-- [RB Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6c29e55f-061f-4dbf-8af2-176dd740b543) **(nieuw)**
-- [Bijlage 1 - Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/2af3f60b-ce7b-4f33-86e0-87d0a9fe78c6) **(nieuw)**
-- [2. Afdeling 10 (Consumentenvuurwerk) van hoofdstuk 2 uit de Algemene Plaatselijke Verordening te schrappen.](https://laren.bestuurlijkeinformatie.nl/Document/View/092206d6-4e98-463b-8ee5-943c5293717e) **(nieuw)**
-- [RV Wijziging Algemene Plaatselijke Verordening gemeente Laren (APV)](https://laren.bestuurlijkeinformatie.nl/Document/View/58508b5b-f785-44cf-bc27-6a77faa88b94) **(nieuw)**
-- [RB Wijziging Algemene Plaatselijke Verordening gemeente Laren (APV)](https://laren.bestuurlijkeinformatie.nl/Document/View/dc6d9f02-11e8-439a-aaf0-6050945dfc1e) **(nieuw)**
-- [Toestemming te verlenen aan het college voor het aangaan van de Gemeenschappelijke regeling Gemeentebelastingen Huizen, Blaricum, Eemnes en Huizen.](https://laren.bestuurlijkeinformatie.nl/Document/View/2baaa0b8-9466-4a3c-9ffb-e3648de5fe7e) **(nieuw)**
-- [RV Toetreding gemeente Eemnes tot GR Gemeentebelastingen Huizen, Blaricum en Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/1622223b-0c34-4fbc-a7f7-52436602a7dd) **(nieuw)**
+- [De Najaarsnota 2026 met bijbehorende begrotingswijziging vast te stellen.](https://laren.bestuurlijkeinformatie.nl/Document/View/8a00f9f3-b06a-47b6-af07-3905ad004cf9)
+- [RV Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6c25206a-2d61-4ad6-b870-be608a7ccd25)
+- [RB Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6c29e55f-061f-4dbf-8af2-176dd740b543)
+- [Bijlage 1 - Najaarsnota 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/2af3f60b-ce7b-4f33-86e0-87d0a9fe78c6)
+- [2. Afdeling 10 (Consumentenvuurwerk) van hoofdstuk 2 uit de Algemene Plaatselijke Verordening te schrappen.](https://laren.bestuurlijkeinformatie.nl/Document/View/092206d6-4e98-463b-8ee5-943c5293717e)
+- [RV Wijziging Algemene Plaatselijke Verordening gemeente Laren (APV)](https://laren.bestuurlijkeinformatie.nl/Document/View/58508b5b-f785-44cf-bc27-6a77faa88b94)
+- [RB Wijziging Algemene Plaatselijke Verordening gemeente Laren (APV)](https://laren.bestuurlijkeinformatie.nl/Document/View/dc6d9f02-11e8-439a-aaf0-6050945dfc1e)
+- [Toestemming te verlenen aan het college voor het aangaan van de Gemeenschappelijke regeling Gemeentebelastingen Huizen, Blaricum, Eemnes en Huizen.](https://laren.bestuurlijkeinformatie.nl/Document/View/2baaa0b8-9466-4a3c-9ffb-e3648de5fe7e)
+- [RV Toetreding gemeente Eemnes tot GR Gemeentebelastingen Huizen, Blaricum en Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/1622223b-0c34-4fbc-a7f7-52436602a7dd)
 
 ## Commissie R&I - Agenda laren - Commissie R&I woensdag 7 oktober 2026 20:00 - 22:00
 
