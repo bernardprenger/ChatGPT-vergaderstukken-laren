@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-10-01._
+_Laatst gecontroleerd op 2026-10-02._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren donderdag 29 oktober 2026 20:00 - 22:00
 
@@ -33,7 +33,7 @@ _Laatst gecontroleerd op 2026-10-01._
 - [VVD - toelichting verzoek agendering](https://laren.bestuurlijkeinformatie.nl/Document/View/66d41ca7-5668-4edd-9741-6f8f035bfecc)
 - [B.3 Regio G&V - Aanbiedingsbrief Jaarverslag Vervoer 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/7e074eba-5dc0-4528-b10e-e03447e34f88)
 - [B.3.1 BIJLAGE - Jaarverslag Vervoer G&V 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/1352e9d2-178f-425f-b0d8-6a50f88e1784)
-- [7 november aanstaande.](https://laren.bestuurlijkeinformatie.nl/Document/View/ba06f1c5-30d3-434d-adf8-637cd601c9d8)
+- [6 november aanstaande.](https://laren.bestuurlijkeinformatie.nl/Document/View/ba06f1c5-30d3-434d-adf8-637cd601c9d8)
 - [RV Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/e6302d9a-acf3-46b5-b44f-72be747d6de8)
 - [RB Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/d393928a-186a-41de-89ca-43a237477d99)
 - [Bijlage 1 - Programmabegroting 2027](https://laren.bestuurlijkeinformatie.nl/Document/View/953f4b0c-a151-463f-a05e-fdbb53ac8770)
