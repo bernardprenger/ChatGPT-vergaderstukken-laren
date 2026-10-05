@@ -17,18 +17,9 @@ CATEGORIEEN = {
 }
 
 MAANDEN = {
-    "januari": 1,
-    "februari": 2,
-    "maart": 3,
-    "april": 4,
-    "mei": 5,
-    "juni": 6,
-    "juli": 7,
-    "augustus": 8,
-    "september": 9,
-    "oktober": 10,
-    "november": 11,
-    "december": 12,
+    "januari": 1, "februari": 2, "maart": 3, "april": 4,
+    "mei": 5, "juni": 6, "juli": 7, "augustus": 8,
+    "september": 9, "oktober": 10, "november": 11, "december": 12,
 }
 
 HEADERS = {
@@ -38,64 +29,39 @@ HEADERS = {
 STATE_BESTAND = Path("state.json")
 OVERZICHT_BESTAND = Path("overzicht.md")
 
+# Teksten die nooit als documenttitel mogen gelden.
+OVERGESLAGEN_TEKSTEN = {
+    "bijlagen", "download", "downloaden", "open", "openen",
+    "document", "documenten", "vergaderstukken", "bekijken",
+}
+
 
 def haal_pagina(url):
-    """
-    Haalt een webpagina op.
-
-    Geeft terug:
-    - de uiteindelijke URL na redirects;
-    - de HTML van de pagina.
-    """
-    verzoek = urllib.request.Request(
-        url,
-        headers=HEADERS,
-    )
-
-    with urllib.request.urlopen(
-        verzoek,
-        timeout=60,
-    ) as antwoord:
+    """Haalt een webpagina op; geeft (uiteindelijke URL, HTML) terug."""
+    verzoek = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(verzoek, timeout=60) as antwoord:
         uiteindelijke_url = antwoord.geturl()
         inhoud = antwoord.read()
-
-    return (
-        uiteindelijke_url,
-        inhoud.decode("utf-8", errors="replace"),
-    )
+    return uiteindelijke_url, inhoud.decode("utf-8", errors="replace")
 
 
 def schoon_tekst(tekst):
-    """
-    Verwijdert HTML en maakt tekst netjes leesbaar.
-    """
-    tekst = re.sub(r"<[^>]+>", "", tekst)
+    """Verwijdert HTML en maakt tekst netjes leesbaar."""
+    tekst = re.sub(r"<[^>]+>", " ", tekst)
     tekst = html_lib.unescape(tekst)
     tekst = tekst.replace("\xa0", " ")
-
     return re.sub(r"\s+", " ", tekst).strip()
 
 
 def markdown_veilig(tekst):
-    """
-    Voorkomt dat vierkante haken in een titel
-    de Markdown-link beschadigen.
-    """
+    """Voorkomt dat vierkante haken de Markdown-link beschadigen."""
     return (
-        tekst
-        .replace("\\", "\\\\")
-        .replace("[", "\\[")
-        .replace("]", "\\]")
+        tekst.replace("\\", "\\\\").replace("[", "\\[").replace("]", "\\]")
     )
 
 
 def zonder_bestandsgrootte(titel):
-    """
-    Verwijdert bestandsgroottes zoals:
-    500 KB
-    2,4 MB
-    1.2 GB
-    """
+    """Verwijdert bestandsgroottes zoals '149 KB' of '2,4 MB' aan het eind."""
     return re.sub(
         r"\s+\d+(?:[.,]\d+)?\s*(?:bytes?|kB|MB|GB)\s*$",
         "",
@@ -104,476 +70,268 @@ def zonder_bestandsgrootte(titel):
     ).strip()
 
 
-def lees_datum(tekst):
-    """
-    Herkent Nederlandse datums zoals:
-    23 september 2026
-    """
-    match = re.search(
-        r"(\d{1,2})\s+([a-z]+)\s+(\d{4})",
-        tekst.lower(),
-    )
+def bruikbare_titel(kandidaat):
+    """Geeft de opgeschoonde titel terug, of None als hij onbruikbaar is."""
+    kandidaat = zonder_bestandsgrootte(schoon_tekst(kandidaat))
+    if len(kandidaat) < 5:
+        return None
+    if kandidaat.lower() in OVERGESLAGEN_TEKSTEN:
+        return None
+    if re.fullmatch(r"[\d.,]+\s*(?:bytes?|kB|MB|GB)?", kandidaat, flags=re.I):
+        return None
+    return kandidaat
 
+
+def lees_datum(tekst):
+    """Herkent Nederlandse datums zoals '23 september 2026'."""
+    match = re.search(r"(\d{1,2})\s+([a-z]+)\s+(\d{4})", tekst.lower())
     if not match:
         return None
-
-    dag = int(match.group(1))
     maand = MAANDEN.get(match.group(2))
-    jaar = int(match.group(3))
-
     if not maand:
         return None
-
     try:
-        return date(jaar, maand, dag)
+        return date(int(match.group(3)), maand, int(match.group(1)))
     except ValueError:
         return None
 
 
 def haal_titel(html):
-    """
-    Haalt de titel van de iBabs-pagina uit het title-element.
-    """
-    match = re.search(
-        r"<title[^>]*>(.*?)</title>",
-        html,
-        flags=re.IGNORECASE | re.DOTALL,
-    )
-
+    """Haalt de titel van de iBabs-pagina uit het title-element."""
+    match = re.search(r"<title[^>]*>(.*?)</title>", html, flags=re.I | re.S)
     if not match:
         return ""
-
     titel = schoon_tekst(match.group(1))
-
-    return re.split(
-        r"(?i)\s*[-|]\s*iBabs",
-        titel,
-    )[0].strip()
+    return re.split(r"(?i)\s*[-|]\s*iBabs", titel)[0].strip()
 
 
 def titel_voor_link(html, positie):
     """
-    Op het Laren-portaal staat de zichtbare titel
-    vlak voor de hyperlink. De hyperlink zelf kan
-    uitsluitend een icoon bevatten.
-
-    Daarom wordt vanaf de link maximaal 800 tekens
-    teruggekeken.
+    VANGNET (alleen als de link zelf geen titel bevat):
+    kijkt maximaal 800 tekens terug voor bruikbare tekst.
     """
-    begin = max(0, positie - 800)
-    fragment = html[begin:positie]
-
-    losse_fragmenten = re.split(
-        r"<[^>]+>",
-        fragment,
-    )
-
-    overgeslagen_teksten = {
-        "bijlagen",
-        "download",
-        "open",
-        "document",
-        "documenten",
-        "vergaderstukken",
-    }
-
-    for kandidaat in reversed(losse_fragmenten):
-        kandidaat = schoon_tekst(kandidaat)
-        kandidaat = zonder_bestandsgrootte(kandidaat)
-
-        if len(kandidaat) < 5:
-            continue
-
-        if kandidaat.lower() in overgeslagen_teksten:
-            continue
-
-        if re.fullmatch(
-            r"[\d.,]+\s*(?:bytes?|kB|MB|GB)?",
-            kandidaat,
-            flags=re.IGNORECASE,
-        ):
-            continue
-
-        return kandidaat
-
+    fragment = html[max(0, positie - 800):positie]
+    # Een afgeknipte tag aan het begin weghalen
+    # (dat gaf eerder rommel als 'ass="panel-title-label" >').
+    eerste_open = fragment.find("<")
+    eerste_sluit = fragment.find(">")
+    if eerste_sluit != -1 and (eerste_open == -1 or eerste_sluit < eerste_open):
+        fragment = fragment[eerste_sluit + 1:]
+    for kandidaat in reversed(re.split(r"<[^>]+>", fragment)):
+        titel = bruikbare_titel(kandidaat)
+        if titel:
+            return titel
     return None
 
 
 def vind_toekomstige_vergaderingen(html):
-    """
-    Zoekt toekomstige vergaderlinks op de pagina.
-
-    Dit wordt alleen als vangnet gebruikt wanneer
-    OpenCategory naar een oude vergadering verwijst.
-    """
+    """Vangnet: zoekt toekomstige vergaderlinks op de pagina."""
     kandidaten = []
-
     patroon = re.compile(
-        r'href=["\']'
-        r'([^"\']*?/Agenda/Index/[^"\']+)'
-        r'["\'][^>]*>'
-        r'(.*?)'
-        r"</a>",
-        flags=re.IGNORECASE | re.DOTALL,
+        r'href=["\']([^"\']*?/Agenda/Index/[^"\']+)["\'][^>]*>(.*?)</a>',
+        flags=re.I | re.S,
     )
-
     for match in patroon.finditer(html):
-        zichtbare_tekst = schoon_tekst(
-            match.group(2)
-        )
-
-        vergaderdatum = lees_datum(
-            zichtbare_tekst
-        )
-
-        if not vergaderdatum:
+        vergaderdatum = lees_datum(schoon_tekst(match.group(2)))
+        if not vergaderdatum or vergaderdatum < date.today():
             continue
-
-        if vergaderdatum < date.today():
-            continue
-
-        url = urllib.parse.urljoin(
-            BASIS,
-            html_lib.unescape(match.group(1)),
-        )
-
-        kandidaten.append(
-            (vergaderdatum, url)
-        )
-
-    kandidaten.sort(
-        key=lambda kandidaat: kandidaat[0]
-    )
-
+        url = urllib.parse.urljoin(BASIS, html_lib.unescape(match.group(1)))
+        kandidaten.append((vergaderdatum, url))
+    kandidaten.sort(key=lambda k: k[0])
     return kandidaten
 
 
 def kies_vergadering(start_url):
-    """
-    Gebruikt OpenCategory als primaire ingang.
-
-    Alleen wanneer de geselecteerde vergadering
-    in het verleden ligt, wordt op dezelfde pagina
-    gezocht naar de eerstvolgende toekomstige
-    vergadering.
-    """
+    """OpenCategory primair; bij een vergadering in het verleden de eerstvolgende."""
     eind_url, pagina = haal_pagina(start_url)
-
-    huidige_datum = lees_datum(
-        haal_titel(pagina)
-    )
-
-    if (
-        huidige_datum
-        and huidige_datum >= date.today()
-    ):
+    huidige_datum = lees_datum(haal_titel(pagina))
+    if huidige_datum and huidige_datum >= date.today():
         return eind_url, pagina
-
-    kandidaten = vind_toekomstige_vergaderingen(
-        pagina
-    )
-
+    kandidaten = vind_toekomstige_vergaderingen(pagina)
     if kandidaten:
-        eerstvolgende_url = kandidaten[0][1]
-
-        return haal_pagina(
-            eerstvolgende_url
-        )
-
+        return haal_pagina(kandidaten[0][1])
     return eind_url, pagina
+
+
+def vind_agendapunten(html):
+    """
+    Zoekt de koppen van agendapunten (elementen met class 'panel-title-label').
+    Geeft een lijst van (positie, titel) terug. Leeg als de structuur anders is;
+    dan valt het overzicht terug op een platte lijst.
+    """
+    punten = []
+    patroon = re.compile(
+        r'<(h\d|div|span|a)\b[^>]*class=["\'][^"\']*panel-title-label'
+        r'[^"\']*["\'][^>]*>(.*?)</\1>',
+        flags=re.I | re.S,
+    )
+    for match in patroon.finditer(html):
+        titel = schoon_tekst(match.group(2))
+        if titel:
+            punten.append((match.start(), titel))
+    return punten
 
 
 def vind_documenten(html):
     """
-    Vindt de document-ID's, titels en directe leeslinks.
+    Vindt per document het ID, de titel, het agendapunt en de leeslink.
 
-    De zichtbare titel staat op het Laren-portaal
-    vlak voor de hyperlink met het documenticoon.
+    WIJZIGING: de titel komt nu uit de tekst ÍN de link. Het portaal heeft per
+    document twee links (een icoon en de titel). Voorheen werd de tekst vóór
+    de eerste link gepakt; dat was de titel van het vórige document, waardoor
+    alle titels één plek opschoven.
     """
-    documenten = []
-    gezien = set()
-
-    linkpatroon = re.compile(
-        r'href=["\']([^"\']+)["\']',
-        flags=re.IGNORECASE,
+    ankerpatroon = re.compile(
+        r'<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',
+        flags=re.I | re.S,
     )
+    per_id = {}
+    volgorde = []
 
-    for match in linkpatroon.finditer(html):
-        url = html_lib.unescape(
-            match.group(1)
-        )
-
+    for match in ankerpatroon.finditer(html):
+        url = html_lib.unescape(match.group(1))
         if "/Agenda/Document/" not in url:
             continue
-
-        id_match = re.search(
-            r"[?&]documentId=([0-9a-fA-F-]+)",
-            url,
-            flags=re.IGNORECASE,
-        )
-
+        id_match = re.search(r"[?&]documentId=([0-9a-fA-F-]+)", url)
         if not id_match:
             continue
-
         document_id = id_match.group(1)
+        if document_id not in per_id:
+            per_id[document_id] = {"positie": match.start(), "titels": []}
+            volgorde.append(document_id)
+        titel = bruikbare_titel(match.group(2))
+        if titel:
+            per_id[document_id]["titels"].append(titel)
 
-        if document_id in gezien:
-            continue
+    agendapunten = vind_agendapunten(html)
+    documenten = []
 
-        gezien.add(document_id)
+    for document_id in volgorde:
+        gegevens = per_id[document_id]
+        if gegevens["titels"]:
+            titel = max(gegevens["titels"], key=len)
+        else:
+            titel = titel_voor_link(html, gegevens["positie"]) or "Document"
 
-        titel = (
-            titel_voor_link(
-                html,
-                match.start(),
-            )
-            or "Document"
-        )
+        agendapunt = None
+        for positie, punt_titel in agendapunten:
+            if positie < gegevens["positie"]:
+                agendapunt = punt_titel
+            else:
+                break
 
-        leeslink = (
-            f"{BASIS}/Document/View/"
-            f"{document_id}"
-        )
-
-        documenten.append(
-            {
-                "id": document_id,
-                "titel": titel,
-                "leeslink": leeslink,
-            }
-        )
+        documenten.append({
+            "id": document_id,
+            "titel": titel,
+            "agendapunt": agendapunt,
+            "leeslink": f"{BASIS}/Document/View/{document_id}",
+        })
 
     return documenten
 
 
 def controleer_leeslink(url):
-    """
-    Controleert licht of de directe leeslink
-    een bestand teruggeeft en geen HTML-kijkpagina.
-
-    Mogelijke uitkomsten:
-    - True: lijkt een bestand;
-    - False: is waarschijnlijk HTML;
-    - None: controle kon niet worden uitgevoerd.
-    """
-    headers = {
-        **HEADERS,
-        "Range": "bytes=0-1023",
-    }
-
+    """Lichte controle of de leeslink een bestand is (True/False/None)."""
     verzoek = urllib.request.Request(
-        url,
-        headers=headers,
+        url, headers={**HEADERS, "Range": "bytes=0-1023"}
     )
-
     try:
-        with urllib.request.urlopen(
-            verzoek,
-            timeout=20,
-        ) as antwoord:
+        with urllib.request.urlopen(verzoek, timeout=20) as antwoord:
             content_type = (
-                antwoord.headers.get(
-                    "Content-Type",
-                    "",
-                )
-                .split(";")[0]
-                .strip()
-                .lower()
+                antwoord.headers.get("Content-Type", "")
+                .split(";")[0].strip().lower()
             )
-
             eerste_bytes = antwoord.read(16)
-
-    except (
-        urllib.error.HTTPError,
-        urllib.error.URLError,
-        TimeoutError,
-        OSError,
-    ):
+    except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, OSError):
         return None
-
-    if content_type in {
-        "text/html",
-        "application/xhtml+xml",
-    }:
+    if content_type in {"text/html", "application/xhtml+xml"}:
         return False
-
-    if eerste_bytes.lstrip().lower().startswith(
-        (b"<!doctype html", b"<html")
-    ):
+    if eerste_bytes.lstrip().lower().startswith((b"<!doctype html", b"<html")):
         return False
-
     return True
 
 
 def lees_vorige_staat():
-    """
-    Leest state.json.
-
-    Bij een ontbrekend of beschadigd bestand
-    wordt gestart met een lege state.
-    """
+    """Leest state.json; bij problemen een lege state."""
     try:
-        inhoud = STATE_BESTAND.read_text(
-            encoding="utf-8"
-        )
-
-        data = json.loads(inhoud)
-
-    except (
-        OSError,
-        json.JSONDecodeError,
-    ):
+        data = json.loads(STATE_BESTAND.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
         return {}
-
     if not isinstance(data, dict):
         return {}
-
-    return {
-        onderdeel: documenten
-        for onderdeel, documenten in data.items()
-        if isinstance(documenten, dict)
-    }
+    return {k: v for k, v in data.items() if isinstance(v, dict)}
 
 
 def schrijf_overzicht():
-    """
-    Haalt alle categorieen op en schrijft overzicht.md
-    en state.json.
-    """
+    """Haalt alle categorieën op en schrijft overzicht.md en state.json."""
     vorige_staat = lees_vorige_staat()
-
-    # Begin met de vorige staat.
-    # Een tijdelijke storing verwijdert zo niets.
     nieuwe_staat = dict(vorige_staat)
 
     regels = [
         "# Vergaderstukken Laren",
         "",
-        (
-            f"_Laatst gecontroleerd op "
-            f"{date.today().isoformat()}._"
-        ),
+        f"_Laatst gecontroleerd op {date.today().isoformat()}._",
         "",
     ]
-
     succesvol = 0
 
     for onderdeel, pad in CATEGORIEEN.items():
-        start_url = urllib.parse.urljoin(
-            BASIS,
-            pad,
-        )
-
+        start_url = urllib.parse.urljoin(BASIS, pad)
         try:
-            eind_url, pagina = kies_vergadering(
-                start_url
-            )
-
-            documenten = vind_documenten(
-                pagina
-            )
-
+            eind_url, pagina = kies_vergadering(start_url)
+            documenten = vind_documenten(pagina)
         except Exception as fout:
-            regels.extend(
-                [
-                    f"## {onderdeel}",
-                    "",
-                    (
-                        "_Kon deze vergadering niet "
-                        f"ophalen: {fout}. "
-                        "De vorige stand is behouden._"
-                    ),
-                    "",
-                ]
-            )
-
+            regels.extend([
+                f"## {onderdeel}",
+                "",
+                f"_Kon deze vergadering niet ophalen: {fout}. "
+                "De vorige stand is behouden._",
+                "",
+            ])
             continue
 
         succesvol += 1
+        paginatitel = haal_titel(pagina)
+        kop = onderdeel + (f" - {paginatitel}" if paginatitel else "")
+        regels.extend([
+            f"## {markdown_veilig(kop)}",
+            "",
+            f"[Open de volledige agenda]({eind_url})",
+            "",
+        ])
 
-        paginatitel = haal_titel(
-            pagina
-        )
-
-        kop = onderdeel
-
-        if paginatitel:
-            kop += f" - {paginatitel}"
-
-        regels.extend(
-            [
-                f"## {markdown_veilig(kop)}",
-                "",
-                (
-                    f"[Open de volledige agenda]"
-                    f"({eind_url})"
-                ),
-                "",
-            ]
-        )
-
-        oude_documenten = vorige_staat.get(
-            onderdeel,
-            {},
-        )
-
+        oude_documenten = vorige_staat.get(onderdeel, {})
         huidige_documenten = {}
 
         if not documenten:
-            regels.extend(
-                [
-                    "_Nog geen documenten gepubliceerd._",
-                    "",
-                ]
-            )
-
-            # Bij nul resultaten wissen we de oude state niet.
-            # Dit voorkomt dat een gewijzigde HTML-structuur
-            # alle documenten uit state.json haalt.
+            regels.extend(["_Nog geen documenten gepubliceerd._", ""])
             continue
 
+        vorig_agendapunt = None
         for document in documenten:
+            agendapunt = document["agendapunt"]
+            if agendapunt and agendapunt != vorig_agendapunt:
+                regels.extend(["", f"### {markdown_veilig(agendapunt)}", ""])
+                vorig_agendapunt = agendapunt
+
             document_id = document["id"]
-            titel = document["titel"]
-            leeslink = document["leeslink"]
+            huidige_documenten[document_id] = document["titel"]
 
-            huidige_documenten[
-                document_id
-            ] = titel
-
-            nieuw_markering = ""
-
-            if (
-                oude_documenten
-                and document_id not in oude_documenten
-            ):
-                nieuw_markering = " **(nieuw)**"
-
-            bereikbaarheid = controleer_leeslink(
-                leeslink
-            )
+            nieuw = ""
+            if oude_documenten and document_id not in oude_documenten:
+                nieuw = " **(nieuw)**"
 
             waarschuwing = ""
-
-            if bereikbaarheid is False:
-                waarschuwing = (
-                    " **WAARSCHUWING: geen direct bestand**"
-                )
+            if controleer_leeslink(document["leeslink"]) is False:
+                waarschuwing = " **WAARSCHUWING: geen direct bestand**"
 
             regels.append(
-                f"- [{markdown_veilig(titel)}]"
-                f"({leeslink})"
-                f"{nieuw_markering}"
-                f"{waarschuwing}"
+                f"- [{markdown_veilig(document['titel'])}]"
+                f"({document['leeslink']}){nieuw}{waarschuwing}"
             )
 
         regels.append("")
-
-        # Alleen vervangen wanneer er daadwerkelijk
-        # documenten zijn gevonden.
-        nieuwe_staat[
-            onderdeel
-        ] = huidige_documenten
+        nieuwe_staat[onderdeel] = huidige_documenten
 
     if succesvol == 0:
         raise RuntimeError(
@@ -582,25 +340,13 @@ def schrijf_overzicht():
         )
 
     OVERZICHT_BESTAND.write_text(
-        "\n".join(regels).rstrip() + "\n",
-        encoding="utf-8",
+        "\n".join(regels).rstrip() + "\n", encoding="utf-8"
     )
-
     STATE_BESTAND.write_text(
-        json.dumps(
-            nieuwe_staat,
-            ensure_ascii=False,
-            indent=2,
-            sort_keys=True,
-        )
-        + "\n",
+        json.dumps(nieuwe_staat, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
         encoding="utf-8",
     )
-
-    print(
-        "Klaar: overzicht.md en state.json "
-        "zijn bijgewerkt."
-    )
+    print("Klaar: overzicht.md en state.json zijn bijgewerkt.")
 
 
 if __name__ == "__main__":
