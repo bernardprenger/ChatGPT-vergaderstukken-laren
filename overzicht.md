@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-10-07._
+_Laatst gecontroleerd op 2026-10-08._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren donderdag 29 oktober 2026 20:00 - 22:00
 
@@ -9,7 +9,7 @@ _Laatst gecontroleerd op 2026-10-07._
 
 ### Vaststellen lijst ingekomen stukken
 
-- [Lijst ingekomen stukken 30 september 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b913858f-0a56-497c-b9cc-47f2fbbca58c) **(nieuw)**
+- [Lijst ingekomen stukken 30 september 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b913858f-0a56-497c-b9cc-47f2fbbca58c)
 
 ### Raadsinformatiebrieven College
 
@@ -60,25 +60,11 @@ _Laatst gecontroleerd op 2026-10-07._
 - [RV Toetreding gemeente Eemnes tot GR Gemeentebelastingen Huizen, Blaricum en Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/2baaa0b8-9466-4a3c-9ffb-e3648de5fe7e)
 - [RB Toetreding gemeente Eemnes tot GR Gemeentebelastingen Huizen, Blaricum en Laren](https://laren.bestuurlijkeinformatie.nl/Document/View/1622223b-0c34-4fbc-a7f7-52436602a7dd)
 
-## Commissie R&I - Agenda laren - Commissie R&I woensdag 7 oktober 2026 20:00 - 22:00
+## Commissie R&I - Agenda laren - Commissie R&I woensdag 11 november 2026 20:00 - 22:00
 
-[Open de volledige agenda](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/d0b12091-6641-4e15-88bf-7ec0d963be05)
+[Open de volledige agenda](https://laren.bestuurlijkeinformatie.nl/Agenda/Index/a1d403a4-5ad8-4b75-8816-fa23c15f7085)
 
-
-### Opening en vaststelling agenda
-
-- [Agenda R&I 7 oktober 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/7f06fd5b-42b0-490d-b556-04c9ea54ff8b)
-
-### Presentatie Commissie Ruimtelijke Kwaliteit en toelichting jaarverslag 2025
-
-- [Presentatie Mooisticht](https://laren.bestuurlijkeinformatie.nl/Document/View/2f28a266-d4df-420a-a350-555fa32deaf1)
-- [Mooisticht - BEL-commissie voor ruimtelijke kwaliteit over de jaren 2023 – 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/c8a84aac-7591-4a3a-a36b-98e76f163089) **(nieuw)**
-- [BIJLAGE - CRK BEL jaarverslag 2023-2024-2025](https://laren.bestuurlijkeinformatie.nl/Document/View/9178f445-cfe5-4021-a85c-773abd5157ed) **(nieuw)**
-
-### Vaststelling lijst adviezen en conclusies vergadering commissie R&I d.d. 16 september 2026
-
-- [Lijst van adviezen commissie R&I 16 september 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/2a7b80ff-ea47-4046-af5c-056b9daa9112)
-- [Transcript commissie R&I 16 september 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/6ca52a40-d39f-43bf-bfc8-779d930c22dc)
+_Nog geen documenten gepubliceerd._
 
 ## Commissie M&F - Agenda laren - Commissie M&F woensdag 21 oktober 2026 20:00 - 22:00
 
