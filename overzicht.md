@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-10-08._
+_Laatst gecontroleerd op 2026-10-09._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren donderdag 29 oktober 2026 20:00 - 22:00
 
@@ -9,7 +9,7 @@ _Laatst gecontroleerd op 2026-10-08._
 
 ### Vaststellen lijst ingekomen stukken
 
-- [Lijst ingekomen stukken 30 september 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/b913858f-0a56-497c-b9cc-47f2fbbca58c)
+- [Lijst ingekomen stukken 29 oktober 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/a64723d0-96b8-4093-85c1-009377ac36e0) **(nieuw)**
 
 ### Raadsinformatiebrieven College
 
@@ -28,6 +28,9 @@ _Laatst gecontroleerd op 2026-10-08._
 - [2 Rekenkamer BEL - Rapportage VIBE](https://laren.bestuurlijkeinformatie.nl/Document/View/d794d466-fed5-441c-97fa-b866d076ed45)
 - [2.1 BIJLAGE - Bestuurlijk wederhoor BEL-bestuur](https://laren.bestuurlijkeinformatie.nl/Document/View/df59a527-ab8a-4c28-aefb-2cf405571306)
 - [3 Rekenkamer BEL - Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/1ab05ce7-89da-4c90-a0c4-c27bf7e68996)
+- [4 Regio G&V - informatiebrief Ruimtelijke opgaven G&V en terugkoppeling BO Leefomgeving Rijk](https://laren.bestuurlijkeinformatie.nl/Document/View/15fcdbfb-ed62-43c9-82e6-11a22a92a952) **(nieuw)**
+- [4.1 BIJLAGE - Brief aan de Tweede Kamer vanuit het Rijk](https://laren.bestuurlijkeinformatie.nl/Document/View/375efa26-eedb-4c16-9572-0708044ba229) **(nieuw)**
+- [4.2 BIJLAGE - BO Leefomgeving dossier landsdeel Noordwest Nederland](https://laren.bestuurlijkeinformatie.nl/Document/View/23e4e573-67ac-426b-9185-3b511d79e32e) **(nieuw)**
 
 ### Schriftelijke vragen
 
