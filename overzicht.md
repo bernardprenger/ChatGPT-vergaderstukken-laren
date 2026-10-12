@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-10-09._
+_Laatst gecontroleerd op 2026-10-12._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren donderdag 29 oktober 2026 20:00 - 22:00
 
@@ -9,7 +9,7 @@ _Laatst gecontroleerd op 2026-10-09._
 
 ### Vaststellen lijst ingekomen stukken
 
-- [Lijst ingekomen stukken 29 oktober 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/a64723d0-96b8-4093-85c1-009377ac36e0) **(nieuw)**
+- [Lijst ingekomen stukken 29 oktober 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/e4146f56-cede-4d8f-9b48-518392790ca6) **(nieuw)**
 
 ### Raadsinformatiebrieven College
 
@@ -28,9 +28,10 @@ _Laatst gecontroleerd op 2026-10-09._
 - [2 Rekenkamer BEL - Rapportage VIBE](https://laren.bestuurlijkeinformatie.nl/Document/View/d794d466-fed5-441c-97fa-b866d076ed45)
 - [2.1 BIJLAGE - Bestuurlijk wederhoor BEL-bestuur](https://laren.bestuurlijkeinformatie.nl/Document/View/df59a527-ab8a-4c28-aefb-2cf405571306)
 - [3 Rekenkamer BEL - Jaarverslag 2025](https://laren.bestuurlijkeinformatie.nl/Document/View/1ab05ce7-89da-4c90-a0c4-c27bf7e68996)
-- [4 Regio G&V - informatiebrief Ruimtelijke opgaven G&V en terugkoppeling BO Leefomgeving Rijk](https://laren.bestuurlijkeinformatie.nl/Document/View/15fcdbfb-ed62-43c9-82e6-11a22a92a952) **(nieuw)**
-- [4.1 BIJLAGE - Brief aan de Tweede Kamer vanuit het Rijk](https://laren.bestuurlijkeinformatie.nl/Document/View/375efa26-eedb-4c16-9572-0708044ba229) **(nieuw)**
-- [4.2 BIJLAGE - BO Leefomgeving dossier landsdeel Noordwest Nederland](https://laren.bestuurlijkeinformatie.nl/Document/View/23e4e573-67ac-426b-9185-3b511d79e32e) **(nieuw)**
+- [4 Regio G&V - informatiebrief Ruimtelijke opgaven G&V en terugkoppeling BO Leefomgeving Rijk](https://laren.bestuurlijkeinformatie.nl/Document/View/15fcdbfb-ed62-43c9-82e6-11a22a92a952)
+- [4.1 BIJLAGE - Brief aan de Tweede Kamer vanuit het Rijk](https://laren.bestuurlijkeinformatie.nl/Document/View/375efa26-eedb-4c16-9572-0708044ba229)
+- [4.2 BIJLAGE - BO Leefomgeving dossier landsdeel Noordwest Nederland](https://laren.bestuurlijkeinformatie.nl/Document/View/23e4e573-67ac-426b-9185-3b511d79e32e)
+- [5 Tomingroep - Reactie AB op zienswijze en definitief besluit](https://laren.bestuurlijkeinformatie.nl/Document/View/6f0cfb3a-51f3-4576-bad2-6e8645bac14b) **(nieuw)**
 
 ### Schriftelijke vragen
 
