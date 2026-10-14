@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-10-13._
+_Laatst gecontroleerd op 2026-10-14._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren donderdag 29 oktober 2026 20:00 - 22:00
 
@@ -9,7 +9,7 @@ _Laatst gecontroleerd op 2026-10-13._
 
 ### Vaststellen lijst ingekomen stukken
 
-- [Lijst ingekomen stukken 29 oktober 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/13262055-54e0-45d4-8d11-3e87cb8bca29) **(nieuw)**
+- [Lijst ingekomen stukken 29 oktober 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/13262055-54e0-45d4-8d11-3e87cb8bca29)
 
 ### Raadsinformatiebrieven College
 
@@ -32,9 +32,9 @@ _Laatst gecontroleerd op 2026-10-13._
 - [4.1 BIJLAGE - Brief aan de Tweede Kamer vanuit het Rijk](https://laren.bestuurlijkeinformatie.nl/Document/View/375efa26-eedb-4c16-9572-0708044ba229)
 - [4.2 BIJLAGE - BO Leefomgeving dossier landsdeel Noordwest Nederland](https://laren.bestuurlijkeinformatie.nl/Document/View/23e4e573-67ac-426b-9185-3b511d79e32e)
 - [5 Tomingroep - Reactie AB op zienswijze en definitief besluit](https://laren.bestuurlijkeinformatie.nl/Document/View/6f0cfb3a-51f3-4576-bad2-6e8645bac14b)
-- [7 VRGV - informatiebrief Terugkoppeling vergadering AB 7 oktober 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/7cbd750c-0a09-484b-9b53-2021ec62b869) **(nieuw)**
-- [8 Regio G&V - informatiebrief Landelijke noodklok Veilig Thuis](https://laren.bestuurlijkeinformatie.nl/Document/View/8aa759d3-12da-4c82-8fc8-06afda6ae601) **(nieuw)**
-- [8.1 BIJLAGE - persbericht Veilig Thuis luidt de noodklok](https://laren.bestuurlijkeinformatie.nl/Document/View/d9b8e446-2257-49d0-bfe1-1a57da080a94) **(nieuw)**
+- [7 VRGV - informatiebrief Terugkoppeling vergadering AB 7 oktober 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/7cbd750c-0a09-484b-9b53-2021ec62b869)
+- [8 Regio G&V - informatiebrief Landelijke noodklok Veilig Thuis](https://laren.bestuurlijkeinformatie.nl/Document/View/8aa759d3-12da-4c82-8fc8-06afda6ae601)
+- [8.1 BIJLAGE - persbericht Veilig Thuis luidt de noodklok](https://laren.bestuurlijkeinformatie.nl/Document/View/d9b8e446-2257-49d0-bfe1-1a57da080a94)
 
 ### Schriftelijke vragen
 
