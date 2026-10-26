@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-10-23._
+_Laatst gecontroleerd op 2026-10-26._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren donderdag 29 oktober 2026 20:00 - 22:00
 
@@ -9,7 +9,7 @@ _Laatst gecontroleerd op 2026-10-23._
 
 ### Opening en vaststelling agenda
 
-- [Agenda openbare raadsvergadering 29 oktober 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/0523bb75-871f-4cc9-97bb-673833980478) **(nieuw)**
+- [Agenda openbare raadsvergadering 29 oktober 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/0523bb75-871f-4cc9-97bb-673833980478)
 
 ### Vaststellen lijst ingekomen stukken
 
@@ -42,10 +42,10 @@ _Laatst gecontroleerd op 2026-10-23._
 
 ### Ter afdoening college (o.a. verzoek zienswijzen)
 
-- [9 Inwoner - reactiebrief aan gemeente Laren woningbouw Torenlaan](https://laren.bestuurlijkeinformatie.nl/Document/View/580c0a64-d433-4993-a17b-00b04696a0b2) **(nieuw)**
-- [9.1 BIJLAGE - reactie gemeente Laren op verkoop Torenlaan](https://laren.bestuurlijkeinformatie.nl/Document/View/9e126218-d62d-45f4-bc6e-6e530cca7dea) **(nieuw)**
-- [9.2 BIJLAGE - Verkaveling Oranjestein gemeenteplan 1](https://laren.bestuurlijkeinformatie.nl/Document/View/8208a62c-ebac-49c2-b166-08756a5fa311) **(nieuw)**
-- [9.3 BIJLAGE - Verkaveling Oranjestein, Co Bremanlaan en Mauvezand 1964](https://laren.bestuurlijkeinformatie.nl/Document/View/f75d53e1-1a41-42f7-b4c3-854368a80ae1) **(nieuw)**
+- [9 Inwoner - reactiebrief aan gemeente Laren woningbouw Torenlaan](https://laren.bestuurlijkeinformatie.nl/Document/View/580c0a64-d433-4993-a17b-00b04696a0b2)
+- [9.1 BIJLAGE - reactie gemeente Laren op verkoop Torenlaan](https://laren.bestuurlijkeinformatie.nl/Document/View/9e126218-d62d-45f4-bc6e-6e530cca7dea)
+- [9.2 BIJLAGE - Verkaveling Oranjestein gemeenteplan 1](https://laren.bestuurlijkeinformatie.nl/Document/View/8208a62c-ebac-49c2-b166-08756a5fa311)
+- [9.3 BIJLAGE - Verkaveling Oranjestein, Co Bremanlaan en Mauvezand 1964](https://laren.bestuurlijkeinformatie.nl/Document/View/f75d53e1-1a41-42f7-b4c3-854368a80ae1)
 
 ### Schriftelijke vragen
 
@@ -62,9 +62,9 @@ _Laatst gecontroleerd op 2026-10-23._
 
 ### Bespreking BEL-begroting 2027
 
-- [Bespreking BEL-begroting 2027](https://laren.bestuurlijkeinformatie.nl/Document/View/edcec434-f579-4a04-b7fa-d42d737f4442) **(nieuw)**
-- [BIJLAGE 1 - Bestuurlijke reactie op zienswijzen begroting BEL Combinatie 2027](https://laren.bestuurlijkeinformatie.nl/Document/View/e3a7d0fd-d4bc-4b6e-80ce-b28a3138fd63) **(nieuw)**
-- [BIJLAGE 2 - Programmabegroting BEL Combinatie 2027](https://laren.bestuurlijkeinformatie.nl/Document/View/3d123cc7-cbed-4c64-b75e-46d4daf5500a) **(nieuw)**
+- [Bespreking BEL-begroting 2027](https://laren.bestuurlijkeinformatie.nl/Document/View/edcec434-f579-4a04-b7fa-d42d737f4442)
+- [BIJLAGE 1 - Bestuurlijke reactie op zienswijzen begroting BEL Combinatie 2027](https://laren.bestuurlijkeinformatie.nl/Document/View/e3a7d0fd-d4bc-4b6e-80ce-b28a3138fd63)
+- [BIJLAGE 2 - Programmabegroting BEL Combinatie 2027](https://laren.bestuurlijkeinformatie.nl/Document/View/3d123cc7-cbed-4c64-b75e-46d4daf5500a)
 
 ### Wijziging Algemene Plaatselijke Verordening gemeente Laren (APV)
 
