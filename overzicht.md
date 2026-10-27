@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-10-26._
+_Laatst gecontroleerd op 2026-10-27._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren donderdag 29 oktober 2026 20:00 - 22:00
 
@@ -10,6 +10,10 @@ _Laatst gecontroleerd op 2026-10-26._
 ### Opening en vaststelling agenda
 
 - [Agenda openbare raadsvergadering 29 oktober 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/0523bb75-871f-4cc9-97bb-673833980478)
+
+### Vragenhalfuur
+
+- [Overzicht vragenhalfuur 29 oktober 2026](https://laren.bestuurlijkeinformatie.nl/Document/View/936339af-86d2-4f60-965c-7cd9c5772473) **(nieuw)**
 
 ### Vaststellen lijst ingekomen stukken
 
