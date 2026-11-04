@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-11-03._
+_Laatst gecontroleerd op 2026-11-04._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren vrijdag 6 november 2026 09:30 - 14:00
 
@@ -13,7 +13,7 @@ _Laatst gecontroleerd op 2026-11-03._
 
 ### Programmabegroting 2027 en meerjarenraming 2028-2030
 
-- [Technische raadsvragen Laren - Programmabegroting 2027 --incl_ beantwoording--](https://laren.bestuurlijkeinformatie.nl/Document/View/f6765c98-ebc2-4c23-896e-0ad3e6372236) **(nieuw)**
+- [Technische raadsvragen Laren - Programmabegroting 2027 --incl_ beantwoording--](https://laren.bestuurlijkeinformatie.nl/Document/View/f6765c98-ebc2-4c23-896e-0ad3e6372236)
 - [RV Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/d9e44537-2223-40bb-bb14-672688f385e6)
 - [RB Programmabegroting 2027 en meerjarenraming 2028-2030](https://laren.bestuurlijkeinformatie.nl/Document/View/e2db9d5c-785b-4f74-83ed-42b4e0bbfb5b)
 - [Bijlage 1 - Programmabegroting 2027](https://laren.bestuurlijkeinformatie.nl/Document/View/f764ea19-1bed-4437-a029-83b4ce085611)
