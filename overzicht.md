@@ -1,6 +1,6 @@
 # Vergaderstukken Laren
 
-_Laatst gecontroleerd op 2026-11-26._
+_Laatst gecontroleerd op 2026-11-27._
 
 ## Raadsvergadering - Agenda laren - Raadsvergadering Laren woensdag 16 december 2026 20:00 - 22:00
 
